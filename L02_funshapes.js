@@ -3,7 +3,7 @@ Task 1: Add the setup() function
 */
 function setup()
 {
-  createc
+  createCanvas
 }
 
 function draw() {
