@@ -10,14 +10,13 @@ function setup()
 }
 
 function draw() {
-ellipse(500,500,500,500);
-ellipse(500,600,300,100);
-circle(400,400,90);
-circle(600,400,90);
-circle(300,212,200);
-circle(700,212,200);
-fill(255,0,255);
-//Bob stays
+// ellipse(500,500,500,500);
+// ellipse(500,600,300,100);
+// circle(400,400,90);
+// circle(600,400,90);
+// circle(300,212,200);
+// circle(700,212,200);
+// fill(255,0,255);//Bob stays
 rect()
 
   // Challenge 2: A face using circle() function
