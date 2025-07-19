@@ -18,6 +18,7 @@ circle(300,212,200)
 circle(700,212,200)
 fill(255,0,255)
 
+
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
