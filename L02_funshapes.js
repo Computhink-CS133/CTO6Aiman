@@ -14,7 +14,7 @@ ellipse(500,500,500,500)
 ellipse(500,600,300,100)
 circle(400,400,90)
 circle(600,400,90)
-circle(300,300,200)
+circle(300,200,200)
 
   // Challenge 2: A face using circle() function
 
