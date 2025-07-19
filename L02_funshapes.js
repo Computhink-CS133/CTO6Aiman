@@ -10,6 +10,7 @@ function setup()
 
 function draw() {
   ellipse(250,250,500,500);
+  fill()
   ellipse(750,250,500,500);
 
 
