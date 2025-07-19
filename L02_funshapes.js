@@ -4,8 +4,9 @@ Task 1: Add the setup() function
 function setup()
 {
   createCanvas(100,100)
+  fill
   background(0)
-  FileList()
+  
 }
 
 function draw() {
