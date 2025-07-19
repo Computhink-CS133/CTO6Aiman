@@ -18,7 +18,7 @@ function draw() {
 // circle(700,212,200);
 // fill(255,0,255);
 //Bob stays
-rect(100,100,500,500,500,500,500,500);
+rect(300,500,500,500,500,500,500,500);
 fill(100,100,100);
 
   // Challenge 2: A face using circle() function
