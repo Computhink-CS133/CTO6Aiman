@@ -11,7 +11,7 @@ function setup()
 function draw() {
   ellipse(250,250,500,500);
   ellipse(750,250,500,500);
-  fill(0);
+
 
   Circle() 
 
