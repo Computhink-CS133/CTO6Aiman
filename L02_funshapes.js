@@ -11,11 +11,7 @@ function setup()
 function draw() {
   ellipse(250,250,500,500);
   ellipse(750,250,500,500);
-  ellipse(250,250,50,50);
-  fill(0);
-  ellipse(750,250,50,50);
-  fill(0);
-
+  
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
