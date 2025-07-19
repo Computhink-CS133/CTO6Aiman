@@ -13,7 +13,8 @@ function draw() {
   fill(0);
   ellipse(750,250,500,500);
   fill(0);
-  
+
+  CSSNumericValue()
 
   // Challenge 2: A face using circle() function
 
