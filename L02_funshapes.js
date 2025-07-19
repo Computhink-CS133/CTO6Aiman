@@ -5,7 +5,7 @@ function setup()
 {
   createCanvas(100,100)
   fill(255,0,0)
-  background(200)
+  background(255,0,0)
   
 }
 
