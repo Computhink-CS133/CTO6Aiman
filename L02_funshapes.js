@@ -1,7 +1,7 @@
 /*
 Task 1: Add the setup() function
 */
-document.write
+document.write(H)
 function setup()
 {
   createCanvas(1000,1000);
