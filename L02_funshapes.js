@@ -3,13 +3,13 @@ Task 1: Add the setup() function
 */
 function setup()
 {
-  createCanvas(100,100);
+  createCanvas(1000,1000);
   background(255,255,0);
   
 }
 
 function draw() {
-  ellipse(25,25,50,50);
+  ellipse(250,250,500,500);
   ellipse(75,25,50,50);
   ellipse(25,25,10,10);
   fill(0);
