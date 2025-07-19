@@ -11,7 +11,7 @@ function setup()
 
 function draw() {
 ellipse(500,500,500,500)
-ellipse(500,600,)
+ellipse(500,600,100,500)
 
   // Challenge 2: A face using circle() function
 
