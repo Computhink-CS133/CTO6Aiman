@@ -4,7 +4,7 @@ Task 1: Add the setup() function
 function setup()
 {
   createCanvas(100,100)
-  background(100900000000000000000000000000000)
+  background(1)
 }
 
 function draw() {
