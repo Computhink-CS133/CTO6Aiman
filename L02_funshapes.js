@@ -1,7 +1,7 @@
 /*
 Task 1: Add the setup() function
 */
-document.write("Bob is goneT-T")
+document.write("Bob is gone T-T")
 function setup()
 {
   createCanvas(1000,1000);
@@ -18,7 +18,7 @@ function draw() {
 // circle(700,212,200);
 // fill(255,0,255);
 //Bob stays
-rect(50,50,500,500);
+rect(100,100,500,500);
 
   // Challenge 2: A face using circle() function
 
