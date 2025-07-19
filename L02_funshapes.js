@@ -15,6 +15,7 @@ ellipse(500,600,300,100)
 circle(400,400,90)
 circle(600,400,90)
 
+
   // Challenge 2: A face using circle() function
 
   // Challenge 3: A house using rect() function
