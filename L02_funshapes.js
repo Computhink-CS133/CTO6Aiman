@@ -1,7 +1,7 @@
 /*
 Task 1: Add the setup() function
 */
-document.write("Ths is Bob")
+document.write("Ths is Bob. Bob is purple.")
 function setup()
 {
   createCanvas(1000,1000);
