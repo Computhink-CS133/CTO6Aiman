@@ -4,14 +4,14 @@ Task 1: Add the setup() function
 function setup()
 {
   createCanvas(1000,1000);
-  background(255,255,0);
+  background(0);
   
 }
 
 function draw() {
   ellipse(250,250,500,500);
   ellipse(750,250,500,500);
-  fill(255,0,0)
+  fill(255,0,0);
 
 
   circle(500,500,90); 
