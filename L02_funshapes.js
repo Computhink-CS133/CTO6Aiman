@@ -3,7 +3,7 @@ Task 1: Add the setup() function
 */
 
 function draw() {
-  
+  ellipsis
 
   // Challenge 2: A face using circle() function
 
