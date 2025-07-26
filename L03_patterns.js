@@ -1,6 +1,6 @@
+
 function setup() {
-  var spacehahah=120;
-  var num=5;
+
   createCanvas(spacehahah, 400);
   background(1000);
   noLoop(); // Stops continuous drawing
