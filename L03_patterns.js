@@ -5,7 +5,7 @@ function setup() {
   }
   
 function draw() {
-  
+  var i 
   circle(Math.random()*600,200,100);
   fill(Math.random()*200,Math.random()*255,Math.random()*255);
 
