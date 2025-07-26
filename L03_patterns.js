@@ -5,7 +5,7 @@ function setup() {
   }
   
 function draw() {
-rect(300,200,50,50)
+  rect(300,200,50,50)
 
   // Task 1: Colour Gradient
 
