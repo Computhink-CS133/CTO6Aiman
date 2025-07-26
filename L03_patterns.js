@@ -24,7 +24,7 @@ var colorvalue=255;
   else{
     colorvalue=0
   }
-  fill()
+  fill(colourvalue)
   }
 
   // Task 1: Colour Gradient
