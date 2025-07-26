@@ -1,5 +1,5 @@
 function setup() {
-
+  var spacehahah=
   createCanvas(600, 400);
   background(1000);
   noLoop(); // Stops continuous drawing
@@ -12,7 +12,7 @@ function draw() {
   {
   stroke(1000,1000,1000,1000)
   circle(50+(i*100),200,100);
-  fill(120*num-1 - (i*50));
+  fill(50*num-1 - (i*50));
   }
 
   // Task 1: Colour Gradient
