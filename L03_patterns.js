@@ -19,10 +19,10 @@ var colorvalue=255;
 
   if (result=0)
   {
-  colourvalue=255;
+    colourvalue=255;
   }
   else{
- colorvalue=0
+    colorvalue=0
   }
   }
 
