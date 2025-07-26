@@ -10,6 +10,7 @@ function draw() {
   
   for (var i=0;i<num ;i++)
   {
+  
   circle(50+(i*100),200,100);
   fill(50*num - (i*50));
   }
