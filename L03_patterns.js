@@ -5,11 +5,11 @@ function setup() {
   }
   
 function draw() {
-  circle(Math.random()*600,Math.random()*400,100);
+  circle(Math.random()*600,200,100);
   fill(Math.random()*255,Math.random()*255,Math.random()*255);
-  circle(Math.random()*600,Math.random()*400,100);
+  circle(Math.random()*600,200,100);
   fill(Math.random()*255,Math.random()*255,Math.random()*255);
-  circle(Math.random()*600,Math.random()*400,100);
+  circle(Math.random()*600,200,100);
   fill(Math.random()*255,Math.random()*255,Math.random()*255);
   circle(Math.random()*600,200,100);
   fill(Math.random()*255,Math.random()*255,Math.random()*255);
