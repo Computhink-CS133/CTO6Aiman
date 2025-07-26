@@ -8,7 +8,7 @@ function draw() {
   
   for (var i=0; i<6 ;i++)
   {
-  circle(50+(i*50),200,100);
+  circle(50+(i*100),200,100);
   fill(Math.random()*200,Math.random()*255,Math.random()*255);
   }
 
