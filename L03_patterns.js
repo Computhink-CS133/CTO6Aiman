@@ -39,5 +39,5 @@ function draw()
 
   // Task 4: Grid of Circles
 }
-var y=y-100
+var y=y-100;
   }
