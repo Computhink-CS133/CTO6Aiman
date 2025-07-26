@@ -13,7 +13,7 @@ function draw() {
   
   for (var i=0;i<num ;i++)
   {
-  colo
+  colorvalue
   stroke(1000,1000,1000,1000)
   circle(spacehahah+(i*100)+spacehahah,200,100);
   }
