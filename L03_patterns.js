@@ -6,7 +6,7 @@ function setup() {
   }
   
 function draw() {
-  num=6
+  var num=6
   for (var i=0;i<num ;i++)
   {
   circle(50+(i*100),200,100);
