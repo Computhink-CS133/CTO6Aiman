@@ -9,7 +9,8 @@ function setup() {
   }
   
 var colorvalue=255;
-  function draw() 
+  for (var i=0;i<num ;i++)
+function draw() 
   {
     for (var i=0;i<num ;i++)
   {
