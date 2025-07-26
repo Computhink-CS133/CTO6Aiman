@@ -8,9 +8,8 @@ function setup() {
   // noLoop(); // Stops continuous drawing
   }
   
-function draw() {
-  
-  
+function draw() 
+  {
   for (var i=0;i<num ;i++)
   {
   var colorvalue=0;
