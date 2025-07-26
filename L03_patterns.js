@@ -17,7 +17,9 @@ var colorvalue=255;
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
 
-  iffill(colorvalue);
+  fill(colorvalue*result);
+
+
   }
 
   // Task 1: Colour Gradient
