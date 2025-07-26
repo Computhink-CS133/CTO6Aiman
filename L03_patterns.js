@@ -13,11 +13,11 @@ var colorvalue=0;
   {
     for (var i=0;i<num ;i++)
   {
-  var result=(i%255)
+  var result=(i%2)
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
 
-  fill(colorvalue);
+  fill(colorvalue*result);
   }
 
   // Task 1: Colour Gradient
