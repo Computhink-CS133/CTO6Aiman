@@ -24,6 +24,7 @@ var colorvalue=255;
   else{
     colorvalue=0
   }
+  
   }
 
   // Task 1: Colour Gradient
