@@ -16,7 +16,7 @@ function draw() {
   var colorvalue=0;
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
-  colorvalue++;
+  colorvalue+=1;
   }
 
   // Task 1: Colour Gradient
