@@ -8,7 +8,7 @@ function draw() {
   stroke(1000,1000,1000,1000);
   circle(Math.random()*600,Math.random()*400,100);
   circle(Math.random()*600,Math.random()*400,100);
-  fill();
+  fill(Math.random());
 
 
   // Task 1: Colour Gradient
