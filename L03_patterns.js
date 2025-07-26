@@ -3,7 +3,7 @@ var num=5
 
 function setup() {
 
-  createCanvas(spacehahah, 400);
+  createCanvas(spacehahah*num, 400);
   background(1000);
   noLoop(); // Stops continuous drawing
   }
