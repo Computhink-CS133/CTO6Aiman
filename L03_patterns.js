@@ -7,7 +7,7 @@ function setup() {
   
 function draw() {
   
-  for (vai<num ;i++;)
+  for (var i=0;i<num ;i++)
   {
   circle(50+(i*100),200,100);
   fill(Math.random()*200,Math.random()*255,Math.random()*255);
