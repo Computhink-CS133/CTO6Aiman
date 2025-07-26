@@ -8,7 +8,8 @@ function setup() {
   // noLoop(); // Stops continuous drawing
   }
   
-var colorvalue=255;
+var y=200
+  var colorvalue=255;
   for (var l=0;l<num ;l++)
   {
 function draw() 
@@ -17,7 +18,7 @@ function draw()
   {
   var result=(i%2)
   stroke(1000,1000,1000,1000);
-  rect(spacehahah+(i*100)+spacehahah,200,100);
+  rect(spacehahah+(i*100)+spacehahah,200,100,100);
 
   if (result===1)
   {
