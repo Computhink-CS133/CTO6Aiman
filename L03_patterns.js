@@ -1,10 +1,10 @@
 var spacehahah=120
-var num=5
+var num=20
 
 function setup() {
 
   createCanvas((spacehahah*num)*2, spacehahah*num);
-  background(255);
+  background(100);
   // noLoop(); // Stops continuous drawing
   }
   
