@@ -6,7 +6,7 @@ function setup() {
   
 function draw() {
   stroke(1000,1000,1000,1000);
-  rect(Math.random()*600,Math.random()*400,50,50);
+  rect(Math.random()*600,Math.random()*400,100);
 
 
   // Task 1: Colour Gradient
