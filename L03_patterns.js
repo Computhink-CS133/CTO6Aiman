@@ -12,7 +12,7 @@ function draw() {
   {
   stroke(1000,1000,1000,1000)
   circle(50+(i*100),200,100);
-  fill(50*num - (i*50));
+  fill(50*num-1 - (i*50));
   }
 
   // Task 1: Colour Gradient
