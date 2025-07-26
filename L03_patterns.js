@@ -6,9 +6,9 @@ function setup() {
   
 function draw() {
   circle(Math.random()*600,200,100);
-  fill(Math.random()*255,Math.random()*255,Math.random()*255);
+  fill(Math.random()*75,Math.random()*255,Math.random()*255);
   circle(Math.random()*600,200,100);
-  fill(Math.random()*255,Math.random()*255,Math.random()*255);
+  fill(Math.random()*100,Math.random()*255,Math.random()*255);
   circle(Math.random()*600,200,100);
   fill(Math.random()*255,Math.random()*255,Math.random()*255);
   circle(Math.random()*600,200,100);
