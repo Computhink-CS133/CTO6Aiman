@@ -11,8 +11,6 @@ function draw() {
   circle(Math.random()*600,200,100);
   fill(Math.random()*200,Math.random()*255,Math.random()*255);
   }
-  document.write(i)
-
 
   // Task 1: Colour Gradient
 
