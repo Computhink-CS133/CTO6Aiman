@@ -6,7 +6,7 @@ function setup() {
   }
   
 function draw() {
-  var num=5;
+  var num=1;
   
   for (var i=0;i<num ;i++)
   {
