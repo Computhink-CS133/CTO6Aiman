@@ -22,7 +22,7 @@ var colorvalue=255;
   colourvalue=255;
   }
   else{
-color
+ colorvalue=0
   }
   }
 
