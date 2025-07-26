@@ -18,7 +18,7 @@ function draw()
   {
   var result=(i%2)
   stroke(1000,1000,1000,1000);
-  rect(spacehahah+(i*100)+spacehahah,200,100,100);
+  rect(spacehahah+(i*100)+spacehahah,y,100,100);
 
   if (result===1)
   {
@@ -39,5 +39,5 @@ function draw()
 
   // Task 4: Grid of Circles
 }
-y-=100
+
   }
