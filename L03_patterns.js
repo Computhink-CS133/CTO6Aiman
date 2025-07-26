@@ -1,5 +1,5 @@
 var spacehahah=120
-var num=5
+var num=100
 
 function setup() {
 
