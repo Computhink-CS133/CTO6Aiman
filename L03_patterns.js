@@ -28,4 +28,4 @@ var colorvalue=0;
 
   // Task 4: Grid of Circles
 }
-document.write
+console
