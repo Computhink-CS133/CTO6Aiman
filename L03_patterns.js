@@ -16,7 +16,7 @@ function draw() {
   var colorvalue=255;
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
-  colorvalue-=2;
+  colorvalue-=5;
   fill(colorvalue);
   }
 
