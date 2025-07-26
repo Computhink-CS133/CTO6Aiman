@@ -16,7 +16,7 @@ var colorvalue=0;
   
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
-  colorvalue+=0.05;
+  colorvalue+=0.2;
   fill(colorvalue);
   }
 
