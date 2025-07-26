@@ -1,12 +1,14 @@
 function setup() {
-    createCanvas(600, 400);
-    background(1000);
-    noLoop(); // Stops continuous drawing
+  var i=0;
+  var num=6;
+  createCanvas(600, 400);
+  background(1000);
+  noLoop(); // Stops continuous drawing
   }
   
 function draw() {
   
-  for (var i=0; i<6 ;i++)
+  for (i<num ;i++;)
   {
   circle(50+(i*100),200,100);
   fill(Math.random()*200,Math.random()*255,Math.random()*255);
