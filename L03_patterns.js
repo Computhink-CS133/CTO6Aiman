@@ -17,7 +17,7 @@ var colorvalue=255;
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
 
-  if (result=1)
+  if (result===1)
   {
     colorvalue=255;
   }
