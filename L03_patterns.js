@@ -10,7 +10,7 @@ function setup() {
   
 var colorvalue=255;
   for (var l=0;l<num ;l++)
-    
+  {
 function draw() 
   {
     for (var i=0;i<num ;i++)
@@ -38,3 +38,4 @@ function draw()
 
   // Task 4: Grid of Circles
 }
+  }
