@@ -21,7 +21,8 @@ var colorvalue=255;
   {
     colorvalue=255;
   }
-  else{
+  else
+  {
     colorvalue=0
   }
   fill(colorvalue)
