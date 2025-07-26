@@ -5,10 +5,12 @@ function setup() {
   }
   
 function draw() {
-  var i=0
   
+  for (let i=0; i<6 ;i++);
+  {
   circle(Math.random()*600,200,100);
   fill(Math.random()*200,Math.random()*255,Math.random()*255);
+  }
 
 
   // Task 1: Colour Gradient
