@@ -10,9 +10,10 @@ function setup() {
   
 function draw() 
   {
-  for (var i=0;i<num ;i++)
-  {
   var colorvalue=0;
+    for (var i=0;i<num ;i++)
+  {
+  
   stroke(1000,1000,1000,1000);
   circle(spacehahah+(i*100)+spacehahah,200,100);
   colorvalue+=5;
