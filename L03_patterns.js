@@ -1,12 +1,12 @@
 function setup() {
-  var spacehahah=
+  var spacehahah=120
   createCanvas(600, 400);
   background(1000);
   noLoop(); // Stops continuous drawing
   }
   
 function draw() {
-  var num=5;
+  
   
   for (var i=0;i<num ;i++)
   {
