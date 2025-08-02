@@ -15,7 +15,7 @@ function setup() {
 function draw() 
   {
 var circlediameter=30;
-var rowcircle=20;
+var rowcircle=7;
 var totalwidth=circlediameter*rowcircle;
 
 
