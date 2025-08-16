@@ -11,7 +11,7 @@ var size = 400
 
 function draw(){
 fill(shapeColor);
-ellipse(500,500,400,400)
+ellipse(500,500,size,size)
 }
 
 function mousePressed(){
