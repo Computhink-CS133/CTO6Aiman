@@ -1,5 +1,5 @@
 function setup() {
 
-  createCanvas(600,1000);//(spacehahah*num)*2, spacehahah*num
+  createCanvas(600,1000);
   background(100);
 }
