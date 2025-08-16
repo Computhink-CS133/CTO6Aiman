@@ -16,7 +16,7 @@ ellipse(mouseX,mouseY,size,size);
 
 function mousePressed(){
 shapeColor = color(random(255), random(255),random(255));
-size = 2;
+size = 1;
 }
 
 function mouseReleased(){
