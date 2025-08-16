@@ -7,7 +7,7 @@ var colour="blue";
 
 function draw(){
     fill(colour);
-    circle(500,500,100);
+    circle(500,500,500);
 }
 
 function mousePressed(){
