@@ -7,19 +7,19 @@ function setup() {
 // let shapeColor ="blue";
 
 
-var size = Math.random()*50
-function draw(){
+// var size = Math.random()*50
+// function draw(){
 
-    fill(shapeColor);
+//     fill(shapeColor);
 
-    ellipse(mouseX+Math.random()*10,mouseY+Math.random()*10,size,size);
-    size = Math.random()*50
-}
+//     ellipse(mouseX+Math.random()*10,mouseY+Math.random()*10,size,size);
+//     size = Math.random()*50
+// }
 
-function mouseDragged(){
-    shapeColor = color(random(255), random(255),random(255));
-    draw()
-}
+// function mouseDragged(){
+//     shapeColor = color(random(255), random(255),random(255));
+//     draw()
+// }
 
 
 
