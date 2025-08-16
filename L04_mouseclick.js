@@ -1006,11 +1006,7 @@ var y = Math.random()*1000;
 var cor1=Math.random()*1000;
 var cor2=Math.random()*1000;
 var cor3=Math.random()*1000;
-function draw(){
-    fill(r,g,b);
-    triangle(cor1,cor2,cor3,x,y);
 
-}
 
 function mousePressed(){
     r=Math.random()*255;
