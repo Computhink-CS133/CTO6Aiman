@@ -1019,12 +1019,12 @@ function mousePressed(){
     cor3=Math.random()*1000;
     fill(r,g,b);
     triangle(cor1,cor2,cor3,x,y);
-    triangle.visibility = visible;
+    triangle.visibility = false;
 
      
 }
 function mouseReleased(){
-    triangle.visibility = hidden;
+    triangle.visibility = true;
 }
 
 
