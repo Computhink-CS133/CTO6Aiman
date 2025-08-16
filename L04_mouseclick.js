@@ -32,7 +32,7 @@ function mousePressed(){
      
 }
 function mouseReleased(){
-    triangle.visibil
+    triangle.visibility = false
 }
 
 
