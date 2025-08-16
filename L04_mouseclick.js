@@ -13,4 +13,7 @@ function draw(){
 function mousePressed(){
     colour="red";
 }
+function mousePressed(){
+    colour="blue";
+}
 
