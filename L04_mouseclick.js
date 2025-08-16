@@ -7,7 +7,7 @@ function setup() {
 // let shapeColor ="blue";
 
 
-var size = Math.random()
+var size = Math.random()*50
 function draw(){
 
     fill(shapeColor);
