@@ -19,8 +19,8 @@ function mousePressed(){
     r=Math.random()*255;
     g=Math.random()*255;
     b=Math.random()*255;
-    var y = Math.random()*1000;
-    var y = Math.random()*1000;
+ y = Math.random()*1000;
+     x = Math.random()*1000;
 }
 
 function mouseReleased(){
