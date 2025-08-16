@@ -12,7 +12,7 @@ function draw(){
 }
 
 function mousePressed(){
-    r=math;
+    r=Math.random()*255;
 }
 
 function mouseReleased(){
