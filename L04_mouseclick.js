@@ -5,28 +5,28 @@ function setup() {
 }
 
 
-let shapeColor ="blue";
-var size = 2;
+// let shapeColor ="blue";
+// var size = 2;
 
 
-function draw(){
-    background(100)
-fill(shapeColor);
-ellipse(mouseX,mouseY,size,size);
-}
+// function draw(){
+//     background(100)
+// fill(shapeColor);
+// ellipse(mouseX,mouseY,size,size);
+// }
 
-function mousePressed(){
-shapeColor = color(random(255), random(255),random(255));
-size = 1;
-}
+// function mousePressed(){
+// shapeColor = color(random(255), random(255),random(255));
+// size = 1;
+// }
 
-function mouseReleased(){
-shapeColor = color(random(255), random(255),random(255));
-}
+// function mouseReleased(){
+// shapeColor = color(random(255), random(255),random(255));
+// }
 
-function mouseMoved(){
-    size++;
-}
+// function mouseMoved(){
+//     size++;
+// }
 
 
 
