@@ -13,6 +13,7 @@ function draw(){
     fill(shapeColor);
 
     ellipse(mouseX+Math.random()*10,mouseY+Math.random()*10,10,10);
+    size = Math.random()*50
 }
 
 function mouseDragged(){
