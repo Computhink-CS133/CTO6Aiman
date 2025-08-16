@@ -11,12 +11,12 @@ function setup() {
 // function draw(){
 //     background(100)
 // fill(shapeColor);
-// ellipse(mouseX,mouseY,400,400);
+// ellipse(500,500,400,400);
 // }
 
 // function mousePressed(){
 // shapeColor = color(random(255), random(255),random(255));
-// size = 1;
+
 // }
 
 // function mouseReleased(){
