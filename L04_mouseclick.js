@@ -7,7 +7,7 @@ var colour="blue";
 
 var r=Math.random()*255
 function draw(){
-    fill(colour);
+    fill(r,0,0);
     ellipse(500,500,500,500);
 }
 
