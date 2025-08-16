@@ -1006,7 +1006,7 @@ var y = Math.random()*1000;
 var cor1=Math.random()*1000;
 var cor2=Math.random()*1000;
 var cor3=Math.random()*1000;
-var 
+var width = Math.rsn
 
 
 function mousePressed(){
