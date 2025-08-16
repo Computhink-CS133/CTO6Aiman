@@ -19,7 +19,7 @@ function mousePressed(){
 
 function mouseReleased(){
     r=Math.random()*255;
-    g=Math
+    g=Math.random()*255
 }
 
 
