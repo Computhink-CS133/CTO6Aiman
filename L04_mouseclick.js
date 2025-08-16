@@ -11,7 +11,7 @@ function setup() {
 function draw(){
 
     fill(shapeColor);
-    ellipse(mouseX,mouseY,400,400);
+    ellipse(mouseX,mouseY,10,10);
 }
 
 function mouseDragged(){
