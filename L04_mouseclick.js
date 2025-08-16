@@ -12,8 +12,7 @@ var x=Math.random()*1000;
 var y = Math.random()*1000;
 function draw(){
     fill(r,g,b);
-    rect(x,y,255,755,
-    );
+    rect(x,y,255,755,255,755);
 }
 
 function mousePressed(){
