@@ -3,7 +3,7 @@ function setup() {
   createCanvas(1000,1000);
   background(100);
 }
-var colour="blue";
+
 
 var r=Math.random()*255
 function draw(){
@@ -12,7 +12,7 @@ function draw(){
 }
 
 function mousePressed(){
-    r="red";
+    r=math;
 }
 
 function mouseReleased(){
