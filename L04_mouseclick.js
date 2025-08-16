@@ -1008,7 +1008,6 @@ var cor2=Math.random()*1000;
 var cor3=Math.random()*1000;
 function draw(){
     fill(r,g,b);
-    if (mousePressed){
     triangle(cor1,cor2,cor3,x,y);
 
 }
@@ -1023,6 +1022,8 @@ function mousePressed(){
     cor2=Math.random()*1000;
     cor3=Math.random()*1000;
     triangle.visibility = visible;
+    fill(r,g,b);
+    triangle(cor1,cor2,cor3,x,y);
      
 }
 function mouseReleased(){
