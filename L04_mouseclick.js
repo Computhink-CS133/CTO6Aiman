@@ -26,7 +26,7 @@ function mousePressed(){
     b=Math.random()*255;
      y = Math.random()*1000;
      x = Math.random()*1000;
-     
+     cor1=Math.random()
 }
 
 function mouseReleased(){
