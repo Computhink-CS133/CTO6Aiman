@@ -11,7 +11,7 @@ let shapeColor ="blue";
 
 function draw(){
 fill(shapeColor);
-ellipse(500,500,400,80)
+ellipse(500,500,400,400)
 }
 
 function mousePressed(){
