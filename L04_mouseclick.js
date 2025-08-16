@@ -9,7 +9,7 @@ function setup() {
 
 
 function draw(){
-    background(100)
+
     fill(shapeColor);
     ellipse(500,500,400,400);
 }
