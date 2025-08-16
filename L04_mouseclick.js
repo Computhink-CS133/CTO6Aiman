@@ -12,7 +12,7 @@ function draw(){
 
     fill(shapeColor);
 
-    ellipse(mouseX+Math.random()*10,mouseY+Math.random()*10,10,10);
+    ellipse(mouseX+Math.random()*10,mouseY+Math.random()*10,size,size);
     size = Math.random()*50
 }
 
