@@ -14,11 +14,12 @@ function draw(){
 
 function mousePressed(){
     r=Math.random()*255;
-    g=Math.random()
+    g=Math.random()*255;
 }
 
 function mouseReleased(){
     r=Math.random()*255;
+    g=Math
 }
 
 
