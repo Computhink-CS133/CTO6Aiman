@@ -5,10 +5,10 @@ function setup() {
 }
 
 
-var r=Math.random()*255
-var g=Math.random()
+var r=Math.random()*255;
+var g=Math.random()*255;
 function draw(){
-    fill(r,0,0);
+    fill(r,g,0);
     ellipse(500,500,500,500);
 }
 
