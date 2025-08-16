@@ -4,6 +4,28 @@ function setup() {
   background(100);
 }
 
+// let shapeColor ="blue";
+
+
+
+// function draw(){
+//     background(100)
+// fill(shapeColor);
+// ellipse(mouseX,mouseY,size,size);
+// }
+
+// function mousePressed(){
+// shapeColor = color(random(255), random(255),random(255));
+// size = 1;
+// }
+
+// function mouseReleased(){
+// shapeColor = color(random(255), random(255),random(255));
+// }
+
+// function mouseMoved(){
+//     size++;
+// }
 
 
 
