@@ -5,7 +5,6 @@ function setup() {
 }
 var colour="blue";
 
-
 function draw(){
     fill(colour);
     ellipse(500,500,500,500);
@@ -14,6 +13,7 @@ function draw(){
 function mousePressed(){
     colour="red";
 }
+
 function mouseReleased(){
     colour="blue";
 }
