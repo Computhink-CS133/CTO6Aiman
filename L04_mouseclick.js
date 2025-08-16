@@ -8,7 +8,7 @@ function setup() {
 var r=Math.random()*255;
 var g=Math.random()*255;
 var b=Math.random()*255;
-var x=Matyh
+var x=Math.random()*
 function draw(){
     fill(r,g,b);
     ellipse(500,500,500,500);
