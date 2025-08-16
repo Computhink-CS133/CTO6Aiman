@@ -29,6 +29,7 @@ function mousePressed(){
     cor1=Math.random()*1000;
     cor2=Math.random()*1000;
     cor3=Math.random()*1000;
+    triangl
      
 }
 function mouseReleased(){
