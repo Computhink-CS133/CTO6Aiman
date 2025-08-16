@@ -12,7 +12,7 @@ var x=Math.random()*1000;
 var y = Math.random()*1000;
 function draw(){
     fill(r,g,b);
-    ellipse(x,y,500,500);
+    rect();
 }
 
 function mousePressed(){
