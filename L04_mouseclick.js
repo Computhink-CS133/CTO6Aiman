@@ -15,7 +15,7 @@ function draw(){
 }
 
 function mouseDragged(){
-    draw
+    draw()
 }
 
 
