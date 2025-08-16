@@ -6,7 +6,7 @@ function setup() {
 
 
 var r=Math.random()*255
-g
+var g=Math.random()
 function draw(){
     fill(r,0,0);
     ellipse(500,500,500,500);
