@@ -6,24 +6,24 @@ function setup() {
 
 
 let shapeColor ="blue";
-var size = 400
+var size = 400;
 
 
 function draw(){
 fill(shapeColor);
-ellipse(500,500,size,size)
+ellipse(500,500,size,size);
 }
 
 function mousePressed(){
-shapeColor = color(random(255), random(255),random(255))
+shapeColor = color(random(255), random(255),random(255));
 }
 
 function mouseReleased(){
-shapeColor = color(random(255), random(255),random(255))
+shapeColor = color(random(255), random(255),random(255));
 }
 
 function mouseMoved(){
-    size
+    size++;
 }
 
 
