@@ -7,5 +7,5 @@ var colour1=0
 var colour2 = 0
 var colour3 = 0
 function draw(){
-    fill(colour)
+    fill(colour1,colour2,colour3)
 }
