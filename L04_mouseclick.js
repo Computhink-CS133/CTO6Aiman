@@ -1009,7 +1009,7 @@ var cor3=Math.random()*1000;
 function draw(){
     fill(r,g,b);
     if (mousePressed){
-    (cor1,cor2,cor3,x,y);
+    triangle(cor1,cor2,cor3,x,y);
 }
 }
 
