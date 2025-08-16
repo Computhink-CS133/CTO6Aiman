@@ -31,7 +31,7 @@ function mousePressed(){
     cor3=Math.random()*1000;
      
 }
-
+function mouseReleased(){}
 
 
 
