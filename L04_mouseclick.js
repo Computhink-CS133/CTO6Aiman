@@ -12,11 +12,11 @@ function draw(){
 }
 
 function mousePressed(){
-    colour="red";
+    r="red";
 }
 
 function mouseReleased(){
-    colour="blue";
+    r="blue";
 }
 
 
