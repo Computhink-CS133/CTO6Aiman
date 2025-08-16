@@ -4,6 +4,7 @@ function setup() {
   background(100);
 }
 var colour="blue";
+floa
 
 function draw(){
     fill(colour);
