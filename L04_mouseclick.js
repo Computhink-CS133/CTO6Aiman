@@ -14,13 +14,8 @@ function draw(){
     ellipse(500,500,400,400);
 }
 
-function mousePressed(){
-    shapeColor = color(random(255), random(255),random(255));
-
-}
-
-function mouseReleased(){
-    shapeColor = color(random(255), random(255),random(255));
+function mouseDragged(){
+    draw
 }
 
 
