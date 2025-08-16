@@ -5,6 +5,7 @@ function setup() {
 }
 var colour="blue";
 
+
 function draw(){
     fill(colour);
     ellipse(500,500,500,500);
