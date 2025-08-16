@@ -10,6 +10,7 @@ var size = 2;
 
 
 function draw(){
+    background(100)
 fill(shapeColor);
 ellipse(mouseX,mouseY,size,size);
 }
