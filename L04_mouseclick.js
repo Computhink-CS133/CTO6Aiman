@@ -11,7 +11,7 @@ var b=Math.random()*255;
 var x=Math.random()*1000;
 var y = Math.random()*1000;
 var cor1=Math.random()*1000
-var cor
+var cor2=Math.random()
 function draw(){
     fill(r,g,b);
     triangle(x,y,255,755,255,755);
