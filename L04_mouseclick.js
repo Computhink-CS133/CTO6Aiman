@@ -1026,6 +1026,7 @@ function mousePressed(){
     fill(r,g,b);
     triangle(cor1,cor2,cor3,x,y,width,height);
     
+    
 
      
 }
