@@ -11,5 +11,5 @@ function draw(){
 }
 
 function mousePressed(){
-    var colour=
+    var colour="red";
 }
