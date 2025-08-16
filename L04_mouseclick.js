@@ -6,7 +6,7 @@ function setup() {
 
 
 let shapeColor ="blue";
-var size = 400;
+var size = 2;
 
 
 function draw(){
