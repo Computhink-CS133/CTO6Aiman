@@ -1007,7 +1007,7 @@ var cor1=Math.random()*1000;
 var cor2=Math.random()*1000;
 var cor3=Math.random()*1000;
 var width = Math.random()*1000;
-var height = Math.
+var height = Math.random()*1000;
 
 
 function mousePressed(){
