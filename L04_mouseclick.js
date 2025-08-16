@@ -6,7 +6,7 @@ function setup() {
 
 
 let shapeColor ="blue";
-
+var 
 
 
 function draw(){
@@ -22,7 +22,9 @@ function mouseReleased(){
 shapeColor = color(random(255), random(255),random(255))
 }
 
-function mouseMoved(){}
+function mouseMoved(){
+
+}
 
 
 
