@@ -6,6 +6,7 @@ function setup() {
 
 
 var r=Math.random()*255
+g
 function draw(){
     fill(r,0,0);
     ellipse(500,500,500,500);
@@ -16,7 +17,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    r=Math.random();
+    r=Math.random()*255;
 }
 
 
