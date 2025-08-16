@@ -1023,7 +1023,7 @@ function mousePressed(){
     height = Math.random()*1000;
     
     fill(r,g,b);
-    triangle(cor1,cor2,cor3,x,y,);
+    triangle(cor1,cor2,cor3,x,y,width,height);
     triangle.visibility = false;
 
      
