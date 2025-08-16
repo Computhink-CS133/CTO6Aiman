@@ -16,7 +16,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    r="blue";
+    r=Math.random();
 }
 
 
