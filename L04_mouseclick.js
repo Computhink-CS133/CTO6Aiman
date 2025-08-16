@@ -10,4 +10,6 @@ function draw(){
     circle(500,500,100);
 }
 
-
+function mousePressed(){
+    var colour=
+}
