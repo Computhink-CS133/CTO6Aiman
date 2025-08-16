@@ -12,9 +12,10 @@ var x=Math.random()*1000;
 var y = Math.random()*1000;
 var cor1=Math.random()*1000;
 var cor2=Math.random()*1000;
-var cor3=Math.random
+var cor3=Math.random()*1000;
 function draw(){
     fill(r,g,b);
+    if (mousePressed)
     triangle(x,y,255,755,255,755);
 }
 
