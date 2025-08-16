@@ -3,10 +3,8 @@ function setup() {
   createCanvas(1000,1000);
   background(100);
 }
-var colour1=0
-var colour2 = 0
-var colour3 = 0
+var colour1=blue
 function draw(){
-    fill(colour1,colour2,colour3)
+    fill(colour1)
     circle(500,500,100)
 }
