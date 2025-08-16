@@ -14,6 +14,7 @@ function draw(){
 
 function mousePressed(){
     r=Math.random()*255;
+    
 }
 
 function mouseReleased(){
