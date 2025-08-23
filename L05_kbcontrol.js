@@ -525,9 +525,9 @@ function draw(){
     rect(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize);
 
 }
-function keyPressed(){
+function keyPressed(r){
     rectsize = 100;
 }
-function keyReleased(){
+function keyReleased(r){
     rectsize= 50;
 }
