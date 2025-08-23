@@ -9,8 +9,9 @@ function mouseDragged()
     fill(Math.random()*255,Math.random()*255,Math.random()*255);
     
     ellipse(mouseX,mouseY,size,size);
+    size+=5
 }
 
 function mousePressed(){
-    size+=5;
+    size=5;
 }
