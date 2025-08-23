@@ -519,7 +519,7 @@ function setup()
   background(100);
   noStroke()
 }
-// var size=5;
+var rectsize=50
 function draw(){
-rect(500,500,500)
+rect(width/2 - rectsize/2,500,500)
 }
