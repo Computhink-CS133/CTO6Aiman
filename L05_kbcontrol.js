@@ -2,7 +2,7 @@ function setup()
 {
   createCanvas(1000,1000);
   background(100);
-  
+  noStroke()
 }
 var size=5;
 function mouseDragged()
