@@ -521,5 +521,5 @@ function setup()
 }
 // var size=5;
 function draw(){
-circle(500,500,500)
+rect(500,500,500)
 }
