@@ -525,5 +525,5 @@ rect(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize);
 background(100);
 }
 function keyPressed(){
-    rectsize()
+    rectsize = 100
 }
