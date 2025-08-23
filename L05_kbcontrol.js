@@ -517,13 +517,13 @@ function setup()
 {
   createCanvas(1000,1000);
   background(100);
-  noStroke()
+  noStroke();
 }
-var rectsize=50
+var rectsize=50;
 function draw(){
-rect(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize)
-background(100)
+rect(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize);
+background(100);
 }
 function keyPressed(){
-    rectsize
+    rectsize()
 }
