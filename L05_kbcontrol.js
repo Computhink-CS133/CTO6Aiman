@@ -6,5 +6,6 @@ function setup() {
 var size=5
 function mouseDragged()
 {
+    FileList()
     ellipse(mouseX,mouseY,size,size)
 }
