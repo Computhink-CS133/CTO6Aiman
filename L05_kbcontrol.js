@@ -6,7 +6,7 @@ function setup()
 }
 // var size=5;
 function draw(){
-circle()
+circle(500,500,500)
 }
 //     function mouseDragged()
 // {
