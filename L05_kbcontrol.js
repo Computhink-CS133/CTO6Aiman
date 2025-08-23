@@ -521,7 +521,7 @@ function setup()
 }
 var rectsize=50;
 function draw(){
-background(100);
+    background(100);
     rect(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize);
 
 }
