@@ -4,8 +4,10 @@ function setup()
   background(100);
   noStroke()
 }
-var size=5;
-function draw(){}
+// var size=5;
+function draw(){
+
+}
 //     function mouseDragged()
 // {
 //     ellipse(mouseX,mouseY,size,size);
