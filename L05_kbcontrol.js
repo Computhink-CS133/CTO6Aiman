@@ -7,6 +7,8 @@ var size=5;
 function mouseDragged()
 {
     fill(Math.random()*255,Math.random()*255,Math.random()*255);
-    noStroke
+    
     ellipse(mouseX,mouseY,size,size);
 }
+
+fun
