@@ -288,16 +288,16 @@
 
 
 
-function setup()
-{
-  createCanvas(1000,1000);
-  background(100);
-  noStroke();
-}
+// function setup()
+// {
+//   createCanvas(1000,1000);
+//   background(100);
+//   noStroke();
+// }
 
-function draw(){
-for(var i=0;i<5;i++){
-    fill(75*i);
-    circle(50+200*i,50+200*i,250);
-}
-}
+// function draw(){
+// for(var i=0;i<5;i++){
+//     fill(75*i);
+//     circle(50+200*i,50+200*i,250);
+// }
+// }
