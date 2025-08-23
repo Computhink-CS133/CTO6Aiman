@@ -12,5 +12,5 @@ function mouseDragged()
 }
 
 function mousePressed(){
-    fill()
+    size+=5;
 }
