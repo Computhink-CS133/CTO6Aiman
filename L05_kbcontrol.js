@@ -297,7 +297,7 @@ function setup()
 
 function draw(){
 for(var i=0;i<5;i++){
-    fill(50*i,50*i,50*i);
+    fill(50*i);
     circle(50+200*i,50+200*i,250);
 }
 }
