@@ -292,12 +292,12 @@ function setup()
 {
   createCanvas(1000,1000);
   background(100);
-  noStroke()
+  noStroke();
 }
 
 function draw(){
 for(var i=0;i<5;i++){
-    fill(50*i,50*i,50*i)
-    circle(50+200*i,50+200*i,250)
+    fill(50*i,50*i,50*i);
+    circle(50+200*i,50+200*i,250);
 }
 }
