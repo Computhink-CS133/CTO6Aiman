@@ -5,7 +5,7 @@ function setup()
   noStroke()
 }
 var size=5;
-function draw(){
+function draw(){}
     function mouseDragged()
 {
     ellipse(mouseX,mouseY,size,size);
@@ -15,5 +15,4 @@ function draw(){
     function mousePressed(){
     size=5;
     fill(random(255),random(255),random(255));
-}
 }
