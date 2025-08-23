@@ -3,8 +3,8 @@ function setup() {
   createCanvas(1000,1000);
   background(100);
 }
-var size=
+var size=5
 function mouseDragged()
 {
-    ellipse(mouseX,mouseY,)
+    ellipse(mouseX,mouseY,size,size)
 }
