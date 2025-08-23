@@ -11,4 +11,4 @@ function mouseDragged()
     ellipse(mouseX,mouseY,size,size);
 }
 
-fun
+function mousePressed(){}
