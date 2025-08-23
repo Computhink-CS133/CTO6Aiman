@@ -6,6 +6,6 @@ function setup() {
 var size=5
 function mouseDragged()
 {
-    fill()
+    fill(Math.random())
     ellipse(mouseX,mouseY,size,size)
 }
