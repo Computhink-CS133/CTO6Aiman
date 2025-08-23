@@ -1,9 +1,9 @@
-function setup() {
-
-  createCanvas(600,1000);
-  background(100);
-
-  }
+function setup()
+{
+  createCanvas(1000,1000);
+  background(0);
+  
+}
 var size=5;
 function mouseDragged()
 {
