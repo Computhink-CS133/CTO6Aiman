@@ -297,6 +297,6 @@ function setup()
 
 function draw(){
 for(var i=0;i<5;i++){
-    circle(50+200*i,50+400*i,200)
+    circle(50+200*i,50+200*i,200)
 }
 }
