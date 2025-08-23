@@ -527,3 +527,4 @@ background(100);
 function keyPressed(){
     rectsize = 100
 }
+function keyReleased(){}
