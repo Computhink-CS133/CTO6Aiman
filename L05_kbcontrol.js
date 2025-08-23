@@ -9,7 +9,7 @@ function draw(){}
     function mouseDragged()
 {
     ellipse(mouseX,mouseY,size,size);
-    size+=0.5;
+    size+=0.2;
 }
 
     function mousePressed(){
