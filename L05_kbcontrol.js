@@ -14,6 +14,6 @@ function draw(){
 
     function mousePressed(){
     size=5;
-    fill(Math.random()*255,Math.random()*255,Math.random()*255);
+    fill(random(255),);
 }
 }
