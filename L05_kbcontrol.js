@@ -7,8 +7,6 @@ function setup()
 var size=5;
 function mouseDragged()
 {
-
-    
     ellipse(mouseX,mouseY,size,size);
     size+=5;
 }
