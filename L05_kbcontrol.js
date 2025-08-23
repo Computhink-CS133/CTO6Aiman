@@ -6,5 +6,5 @@ function setup() {
 
 function mouseDragged()
 {
-    
+    ellipse(mo)
 }
