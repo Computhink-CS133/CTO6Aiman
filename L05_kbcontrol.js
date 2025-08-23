@@ -521,7 +521,7 @@ function setup()
 }
 var rectsize=50;
 function draw(){
-rectangle(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize);
+rect(width/2 - rectsize/2,width/2 - rectsize/2,rectsize,rectsize);
 background(100);
 }
 function keyPressed(){
