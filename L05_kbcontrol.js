@@ -526,8 +526,8 @@ function draw(){
 
 }
 function keyPressed(){
-    rectsize = 100;
+f
 }
 function keyReleased(){
-        back
+        background(100);
 }
