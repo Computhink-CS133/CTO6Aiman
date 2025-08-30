@@ -527,7 +527,7 @@ function draw(){
 }
 function keyPressed(){
     for(var i = 0;i<Math.random()*255;i++){
-        fill(Ma)
+        fill(Math.random()*255)
         circle(Math.random()*1000,Math.random()*1000,90)
     }
 }
