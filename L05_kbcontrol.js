@@ -526,7 +526,9 @@ function draw(){
 
 }
 function keyPressed(){
-    for(var i = 0;i<Math.random()*255;i){}
+    for(var i = 0;i<Math.random()*255;i++){
+        
+    }
 }
 function keyReleased(){
         background(100);
