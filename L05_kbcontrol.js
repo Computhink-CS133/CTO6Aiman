@@ -519,7 +519,7 @@ function setup()
   background(100);
   noStroke();
 }
-var rectsize=50;
+
 function draw(){
 
 
@@ -527,7 +527,7 @@ function draw(){
 }
 function keyPressed(){
     for(var i = 0;i<Math.random()*255;i++){
-        circle(Math.random)
+        circle(Math.random()*1000,)
     }
 }
 function keyReleased(){
