@@ -695,7 +695,7 @@
 
 var xvel=0
 var yvel=0
-var speed=10
+var speed=1
 
 
 var x = 500
@@ -736,12 +736,12 @@ function draw() {
   y=constrain(y,50,950);
   
   
-  if(keyIsDown(shift)){
-    speed=20
-  }
-  else{
-    speed=10
-  }
+  // if(keyIsDown(shift)){
+  //   speed=20
+  // }
+  // else{
+  //   speed=10
+  // }
 }
 
 
