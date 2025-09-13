@@ -719,15 +719,16 @@ function draw() {
     if(keyIsDown(UP_ARROW))
   {
     
-    xvel+=1
+    yvel+=1
   }
     background(100);
   if(keyIsDown(DOWN_ARROW))
   {
-    xvel-=1;
+    yvel-=1;
   }
   circle(x,y,100);
   x+=xvel;
+  y
   xvel*=0.8;
 }
 
