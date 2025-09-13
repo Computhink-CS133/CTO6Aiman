@@ -41,7 +41,7 @@ rect(x - rectsize,y- rectsize,rectsize,rectsize)
   y+=yvel;
   xvel*=0.9;
   yvel*=0.9;
-  x=constrain(x,0,300);
-  y=constrain(y,0,300);
+  x=constrain(x,100,300);
+  y=constrain(y,100,300);
   
 }
