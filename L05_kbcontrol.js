@@ -701,7 +701,9 @@ var x = 200
 function setup(){
   createCanvas(1000,1000)
 }
-fu
+function name(params) {
+  
+}
 
 
 
