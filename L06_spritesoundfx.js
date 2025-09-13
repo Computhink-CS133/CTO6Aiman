@@ -427,7 +427,7 @@ var staticimage,sfx;
 
 function preload() {
     staticimage = loadImage("assets/pico-a.png");
-    sfx = loadSound("assets/pop.mp3")
+    sfx = loadSound("assets/pop.mp3");
 }
 
 function setup() {
