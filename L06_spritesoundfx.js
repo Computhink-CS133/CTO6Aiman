@@ -433,5 +433,5 @@ function preload() {
 function setup() {
     createCanvas(200,200);
     background("lightblue");
-    image(staticimage,0,0);
+    image(staticimage,100,100);
 }
