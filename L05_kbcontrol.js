@@ -740,7 +740,7 @@ function draw() {
     speed=10
   }
   else{
-    speed=5
+    speed=1
   }
 }
 
