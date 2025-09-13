@@ -704,7 +704,7 @@ function setup(){
 }
 function draw() {
   background(100);
-  if(keyIsDown(D))
+  if(keyIsDown(UP_))
   {
     x+=1
   }
