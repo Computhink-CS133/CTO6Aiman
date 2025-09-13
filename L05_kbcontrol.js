@@ -703,7 +703,11 @@ function setup(){
   background(100);
 }
 function draw() {
-  back
+  background(100);
+  if(keyIsDown(D))
+  {
+    
+  }
 }
 
 
