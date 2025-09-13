@@ -720,12 +720,12 @@ function draw() {
     if(keyIsDown(DOWN_ARROW))
   {
     
-    yvel+=1;
+    yvel+=speed;
   }
     background(100);
   if(keyIsDown(UP_ARROW))
   {
-    yvel-=1;
+    yvel-=speed;
   }
   circle(x,y,100);
   x+=xvel;
