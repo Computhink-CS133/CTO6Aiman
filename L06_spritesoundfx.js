@@ -423,4 +423,5 @@
 
 
 
-var staticimage,sound
+var staticimage,sfx
+
