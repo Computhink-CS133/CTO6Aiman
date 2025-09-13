@@ -704,11 +704,11 @@ function setup(){
 }
 function draw() {
   background(100);
-  if(keyIsDown(UP_ARROW))
+  if(keyIsDown(DOWN_ARROW))
   {
-    x+=100
+    x+=100;
   }
-  circle(x,500,100)
+  circle(x,500,100);
 }
 
 
