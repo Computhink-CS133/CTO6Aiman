@@ -423,3 +423,4 @@
 
 
 
+var static
