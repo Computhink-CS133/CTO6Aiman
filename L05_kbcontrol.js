@@ -694,6 +694,7 @@
 
 
 var xvel=0
+var yvel=0
 
 
 var x = 200
