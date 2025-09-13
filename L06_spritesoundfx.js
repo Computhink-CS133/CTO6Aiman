@@ -1,12 +1,12 @@
-var xvel=0
-var yvel=0
-var speed=0.1
-var rectsize = 10
-var colour = 50
+var xvel=0;
+var yvel=0;
+var speed=0.1;
+var rectsize = 10;
+var colour = 50;
 
 
-var x = 200
-var y = 200
+var x = 200;
+var y = 200;
 
 function setup(){
   createCanvas(400,400);
