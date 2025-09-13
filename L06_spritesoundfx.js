@@ -3,11 +3,11 @@ var yvel=0
 var speed=1
 
 
-var x = 500
-var y = 500
+var x = 200
+var y = 200
 
 function setup(){
-  createCanvas(1000,1000);
+  createCanvas(400,1000);
   background(100);
 }
 function draw() {
