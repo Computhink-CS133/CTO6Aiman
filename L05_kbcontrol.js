@@ -513,14 +513,14 @@
 
 
 
-function setup()
-{
-  createCanvas(1000,1000);
-  background(100);
-  noStroke();
-}
+// function setup()
+// {
+//   createCanvas(1000,1000);
+//   background(100);
+//   noStroke();
+// }
 
-function draw(){
+// function draw(){
 
 
 
