@@ -8,10 +8,10 @@
 // var x = 200;
 // var y = 200;
 
-function setup(){
-  createCanvas(400,400);
-  background(100);
-}
+// function setup(){
+//   createCanvas(400,400);
+//   background(100);
+// }
 // function draw() {
   
 //   background(100);
