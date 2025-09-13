@@ -34,7 +34,7 @@ function draw() {
    
     yvel-=speed;
   }
-
+rect()
  
   x+=xvel;
   y+=yvel;
