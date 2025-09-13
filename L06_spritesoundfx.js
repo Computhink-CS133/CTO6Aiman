@@ -40,8 +40,8 @@ rect()
   y+=yvel;
   xvel*=0.9;
   yvel*=0.9;
-  x=constrain(x,50,150);
-  y=constrain(y,50,150);
+  x=constrain(x,50,250);
+  y=constrain(y,50,250);
   
   
   if(keyIsDown(SHIFT)){
