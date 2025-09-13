@@ -38,11 +38,11 @@ function draw() {
   }
 rect(x - rectsize,y- rectsize,rectsize,rectsize);
 
-if(keyIsDown===SPACE){
-    colour = 50;
+if(keyIsDown===" "){
+    colour = 200;
 }
 else{
-    colour = 200;
+    colour = 50;
 }
   x+=xvel;
   y+=yvel;
