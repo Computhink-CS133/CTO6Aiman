@@ -706,7 +706,7 @@ function draw() {
   background(100);
   if(keyIsDown(UP_ARROW))
   {
-    x+=1
+    x+=100
   }
   circle(x,500,100)
 }
