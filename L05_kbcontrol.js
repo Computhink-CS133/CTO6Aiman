@@ -732,6 +732,7 @@ function draw() {
   xvel*=0.8;
   yvel*=0.8;
   contrain(x,0,1000)
+  contrain()
 }
 
 
