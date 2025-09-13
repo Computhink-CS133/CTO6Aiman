@@ -438,7 +438,7 @@ function setup() {
 }
 console.log(":)")
 function keyPressed() { 
-    if(keyCode === 32 )
+    if(key ===" 32 ")
     {
         sfx.play()
     }
