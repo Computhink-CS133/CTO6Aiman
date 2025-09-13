@@ -524,13 +524,141 @@ function draw(){
 
 
 
-}
-function keyPressed(){
-    for(var i = 0;i<Math.random()*20;i++){
-        fill(Math.random()*255,Math.random()*255,Math.random()*255);
-        circle(Math.random()*1000,Math.random()*1000,Math.random()*200);
-    }
-}
-function keyReleased(){
-        background(100);
-}
+// }
+// function keyPressed(){
+//     for(var i = 0;i<Math.random()*20;i++){
+//         fill(Math.random()*255,Math.random()*255,Math.random()*255);
+//         circle(Math.random()*1000,Math.random()*1000,Math.random()*200);
+//     }
+// }
+// function keyReleased(){
+//         background(100);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
