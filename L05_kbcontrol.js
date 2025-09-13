@@ -728,8 +728,9 @@ function draw() {
   }
   circle(x,y,100);
   x+=xvel;
-  y
+  y+=yvel;
   xvel*=0.8;
+  
 }
 
 
