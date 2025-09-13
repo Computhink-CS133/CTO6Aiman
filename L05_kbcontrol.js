@@ -712,7 +712,7 @@ function draw() {
     
     xvel+=speed;
   }
-    background(100);
+
   if(keyIsDown(LEFT_ARROW))
   {
     xvel-=speed;
