@@ -25,13 +25,13 @@ function draw() {
   }
     if(keyIsDown(DOWN_ARROW ))
   {
-    dir="down"
+  
     yvel+=speed;
   }
 
   if(keyIsDown(UP_ARROW ))
   {
-    dir="up"
+   
     yvel-=speed;
   }
   if(dir==="down"){
