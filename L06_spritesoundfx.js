@@ -1,7 +1,7 @@
 var xvel=0
 var yvel=0
 var speed=1
-var rectsize = 
+var rectsize = 50
 
 
 var x = 200
