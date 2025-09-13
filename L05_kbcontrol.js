@@ -704,9 +704,9 @@ function setup(){
 }
 function draw() {
   background(100);
-  if(keyIsDown(DOWN_ARROW))
+  if(keyIsDown(RIGHT_ARROW))
   {
-    x+=100;
+    x+=10=;
   }
   circle(x,500,100);
 }
