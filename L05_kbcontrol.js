@@ -701,6 +701,7 @@ var speed=1
 var x = 200
 var y = 200
 
+
 function setup(){
   createCanvas(400,400);
   background(100);
@@ -730,7 +731,7 @@ function draw() {
     yvel-=speed;
   }
 
-  square()
+  rect()
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
