@@ -714,15 +714,15 @@ function draw() {
     xvel+=speed;
   }
 
-  // if(keyIsDown(LEFT_ARROW ))
-  // {
-  //   xvel-=speed;
-  // }
-  //   if(keyIsDown(DOWN_ARROW ))
-  // {
-  //   dir="down"
-  //   yvel+=speed;
-  // }
+  if(keyIsDown(LEFT_ARROW ))
+  {
+    xvel-=speed;
+  }
+    if(keyIsDown(DOWN_ARROW ))
+  {
+    dir="down"
+    yvel+=speed;
+  }
 
   if(keyIsDown(UP_ARROW ))
   {
