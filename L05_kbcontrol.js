@@ -713,11 +713,11 @@ function draw() {
     xvel+=speed;
   }
 
-  if(keyIsDown(LEFT_ARROW))
+  if(keyIsDown(LEFT_ARROW || A))
   {
     xvel-=speed;
   }
-    if(keyIsDown(DOWN_ARROW))
+    if(keyIsDown(DOWN_ARROW Z))
   {
     
     yvel+=speed;
