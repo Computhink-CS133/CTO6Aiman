@@ -435,3 +435,4 @@ function setup() {
     background("lightblue");
     image(staticimage,0,0,200,200);
 }
+console.log
