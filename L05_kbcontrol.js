@@ -727,7 +727,7 @@ function draw() {
   {
     yvel-=speed;
   }
-  triangle(x,y,100);
+  triangle(x-100,y-100,100);
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
