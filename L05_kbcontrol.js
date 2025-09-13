@@ -708,6 +708,11 @@ function draw() {
   {
     x+=10;
   }
+    background(100);
+  if(keyIsDown(LEFT_ARROW))
+  {
+    x+=10;
+  }
   circle(x,500,100);
 }
 
