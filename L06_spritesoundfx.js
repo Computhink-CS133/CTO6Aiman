@@ -427,11 +427,11 @@ var staticimage,sfx;
 
 function preload() {
     staticimage = loadImage("assets/pico-a.png");
-    sfx = loadSound();
+
 }
 
 function setup() {
     createCanvas(200,200);
-    background("lightblue")
-    image(staticimage,0,100,100)
+    background("lightblue");
+    image(staticimage,0,100,100);
 }
