@@ -709,7 +709,7 @@ function draw() {
   background(100);
   if(keyIsDown(RIGHT_ARROW ))
   {
-    dir = 
+    
     xvel+=speed;
   }
 
