@@ -696,7 +696,7 @@
 var xvel=0
 var yvel=0
 var speed=1
-var dir= ""
+
 
 var x = 500
 var y = 500
@@ -726,15 +726,10 @@ function draw() {
 
   if(keyIsDown(UP_ARROW ))
   {
-    dir="up"
+    
     yvel-=speed;
   }
-  if(dir==="down"){
-    triangle(x-100,y,x,y+100,x+100,y);
-  }
-  else if(dir==="up"){
-      triangle(x-100,y,x,y-100,x+100,y);
-  }
+
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
