@@ -710,17 +710,17 @@ function draw() {
   if(keyIsDown(RIGHT_ARROW))
   {
     
-    xvel+=1
+    xvel+=speed;
   }
     background(100);
   if(keyIsDown(LEFT_ARROW))
   {
-    xvel-=1;
+    xvel-=speed;
   }
     if(keyIsDown(DOWN_ARROW))
   {
     
-    yvel+=1
+    yvel+=1;
   }
     background(100);
   if(keyIsDown(UP_ARROW))
