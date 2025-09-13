@@ -730,6 +730,7 @@ function draw() {
     yvel-=speed;
   }
 
+  
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
