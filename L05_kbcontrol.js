@@ -715,7 +715,7 @@ function draw() {
     xvel-=1;
   }
   circle(x,500,100);
-  x+=1
+  x+=xvel;
 }
 
 
