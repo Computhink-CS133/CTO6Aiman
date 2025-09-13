@@ -706,6 +706,7 @@ function setup(){
   background(100);
 }
 function draw() {
+  triangle(x-100,y,x,y-100,x+100,y);
   background(100);
   if(keyIsDown(RIGHT_ARROW ))
   {
