@@ -722,7 +722,7 @@ function draw() {
     
     yvel+=speed;
   }
-    background(100);
+
   if(keyIsDown(UP_ARROW))
   {
     yvel-=speed;
