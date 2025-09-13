@@ -699,8 +699,9 @@
 var x = 200
 
 function setup(){
-  createCanvas()
+  createCanvas(1000,1000)
 }
+functio
 
 
 
