@@ -429,3 +429,7 @@ function preload() {
     staticimage = loadImage("assets/pico-a.png");
     sfx = loadSound()
 }
+
+function setup() {
+    
+}
