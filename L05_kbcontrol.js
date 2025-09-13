@@ -725,6 +725,7 @@ function draw() {
 
   if(keyIsDown(UP_ARROW ))
   {
+    dir="down"
     yvel-=speed;
   }
   if(dir==="down"){
