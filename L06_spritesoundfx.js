@@ -423,8 +423,9 @@
 
 
 
-var staticimage,sfx
+var staticimage,sfx;
 
 function preload() {
-    staticimage = loadImage("assets/pico-a.png")
+    staticimage = loadImage("assets/pico-a.png");
+    
 }
