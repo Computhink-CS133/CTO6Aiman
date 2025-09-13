@@ -39,10 +39,10 @@ function draw() {
 rect(x - rectsize,y- rectsize,rectsize,rectsize)
 
 if(keyIsDown===SPACE){
-    colour=50
+    colour = 50
 }
 else{
-    colour
+    colour = 200
 }
   x+=xvel;
   y+=yvel;
