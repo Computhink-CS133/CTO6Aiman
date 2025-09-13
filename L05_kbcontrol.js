@@ -702,7 +702,7 @@ var x = 500
 var y = 500
 
 function setup(){
-  createCanvas(1000,1000);
+  createCanvas(400,);
   background(100);
 }
 function draw() {
@@ -720,7 +720,7 @@ function draw() {
   }
     if(keyIsDown(DOWN_ARROW ))
   {
-    dir="down"
+  
     yvel+=speed;
   }
 
