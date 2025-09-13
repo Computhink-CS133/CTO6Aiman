@@ -431,5 +431,5 @@ function preload() {
 }
 
 function setup() {
-    
+    createCanv
 }
