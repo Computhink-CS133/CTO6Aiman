@@ -698,6 +698,7 @@ var yvel=0
 
 
 var x = 200
+var y=500
 
 function setup(){
   createCanvas(1000,1000);
