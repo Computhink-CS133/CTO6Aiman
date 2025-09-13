@@ -438,8 +438,8 @@ function setup() {
 }
 console.log(":)")
 function keyPressed() { 
-    if(key ===" 32 ")
+    if(key ===" ")
     {
-        sfx.play()
+        sfx.play();
     }
 }
