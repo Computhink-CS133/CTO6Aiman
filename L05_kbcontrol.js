@@ -696,7 +696,7 @@
 var xvel=0
 var yvel=0
 var speed=1
-var dir= 
+var dir= ""
 
 var x = 500
 var y = 500
