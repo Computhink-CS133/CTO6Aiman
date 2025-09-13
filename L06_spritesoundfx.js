@@ -2,7 +2,7 @@ var xvel=0
 var yvel=0
 var speed=0.1
 var rectsize = 10
-var colour =50
+var colour = 50
 
 
 var x = 200
