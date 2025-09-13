@@ -36,13 +36,13 @@ function draw() {
    
     yvel-=speed;
   }
-rect(x - rectsize,y- rectsize,rectsize,rectsize)
+rect(x - rectsize,y- rectsize,rectsize,rectsize);
 
 if(keyIsDown===SPACE){
-    colour = 50
+    colour = 50;
 }
 else{
-    colour = 200
+    colour = 200;
 }
   x+=xvel;
   y+=yvel;
