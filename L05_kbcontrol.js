@@ -693,7 +693,7 @@
 
 
 
-
+var xvel=0
 
 
 var x = 200
