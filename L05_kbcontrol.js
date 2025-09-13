@@ -737,10 +737,10 @@ function draw() {
   
   
   if(keyIsDown(shift)){
-    speed=5
+    speed=20
   }
   else{
-    speed=1
+    speed=10
   }
 }
 
