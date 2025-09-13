@@ -736,7 +736,7 @@ function draw() {
   y=constrain(y,50,950);
   
   
-  if(keyIsDown(ENTER)){
+  if(keyIsDown(SHIFT)){
     speed=10
   }
   else{
