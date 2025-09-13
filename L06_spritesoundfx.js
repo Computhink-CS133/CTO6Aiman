@@ -425,3 +425,6 @@
 
 var staticimage,sfx
 
+function pr(params) {
+    
+}
