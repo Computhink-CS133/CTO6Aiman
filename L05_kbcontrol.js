@@ -734,6 +734,9 @@ function draw() {
   yvel*=0.8;
   x=constrain(x,50,950);
   y=constrain(y,50,950);
+  if(keyIsDown(shift)){
+    
+  }
 }
 
 
