@@ -1,6 +1,6 @@
 var xvel=0
 var yvel=0
-var speed=5
+var speed=0.1
 var rectsize = 10
 
 
