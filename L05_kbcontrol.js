@@ -706,13 +706,13 @@ function draw() {
   background(100);
   if(keyIsDown(RIGHT_ARROW))
   {
-    x
-    x+=10;
+    
+    
   }
     background(100);
   if(keyIsDown(LEFT_ARROW))
   {
-    x+=10;
+    xvel+=10;
   }
   circle(x,500,100);
 }
