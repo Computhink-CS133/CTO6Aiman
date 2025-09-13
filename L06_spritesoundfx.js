@@ -440,6 +440,6 @@ console.log(":)")
 function keyPressed() {
     if(key===" ")
     {
-        
+        sfx.play
     }
 }
