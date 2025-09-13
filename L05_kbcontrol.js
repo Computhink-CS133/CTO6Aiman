@@ -730,7 +730,7 @@ function draw() {
   if(dir==="down"){
   triangle(x-100,y,x,y+100,x+100,y);
   }
-  else if(dir)
+  else if(dir==="up")
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
