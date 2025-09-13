@@ -716,13 +716,13 @@ function draw() {
   {
     xvel-=1;
   }
-    if(keyIsDown(UP_ARROW))
+    if(keyIsDown(DOWN_ARROW))
   {
     
     yvel+=1
   }
     background(100);
-  if(keyIsDown(DOWN_ARROW))
+  if(keyIsDown(UP_ARROW))
   {
     yvel-=1;
   }
