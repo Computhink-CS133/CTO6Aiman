@@ -38,7 +38,7 @@ function draw() {
   }
 rect(x - rectsize,y- rectsize,rectsize,rectsize);
 
-if(keyIsDown===" "){
+if(keyIsDown===32){
     colour = 200;
 }
 else{
