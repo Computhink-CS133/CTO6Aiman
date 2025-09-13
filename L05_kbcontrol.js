@@ -699,11 +699,11 @@
 var x = 200
 
 function setup(){
-  createCanvas(1000,1000)
+  createCanvas(1000,1000);
   background(100);
 }
 function draw() {
-  
+  back
 }
 
 
