@@ -707,7 +707,7 @@ function draw() {
   if(keyIsDown(RIGHT_ARROW))
   {
     
-    
+    xvel+=1
   }
     background(100);
   if(keyIsDown(LEFT_ARROW))
@@ -715,6 +715,7 @@ function draw() {
     xvel-=1;
   }
   circle(x,500,100);
+  x+=1
 }
 
 
