@@ -706,8 +706,9 @@ function draw() {
   background(100);
   if(keyIsDown(D))
   {
-    
+    x+=1
   }
+  
 }
 
 
