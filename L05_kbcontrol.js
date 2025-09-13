@@ -730,8 +730,8 @@ function draw() {
   circle(x,y,100);
   x+=xvel;
   y+=yvel;
-  xvel*=0.8;
-  yvel*=0.8;
+  xvel*=0.9;
+  yvel*=0.5;
   x=constrain(x,50,950);
   y=constrain(y,50,950);
   
