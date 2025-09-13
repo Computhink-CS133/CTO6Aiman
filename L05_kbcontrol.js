@@ -712,7 +712,7 @@ function draw() {
     background(100);
   if(keyIsDown(LEFT_ARROW))
   {
-    xvel+=10;
+    xvel-=1;
   }
   circle(x,500,100);
 }
