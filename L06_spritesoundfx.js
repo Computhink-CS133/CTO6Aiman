@@ -437,6 +437,6 @@ function setup() {
     
 }
 console.log(":)")
-function keypressed(params) {
+function keyPressed() {
     
 }
