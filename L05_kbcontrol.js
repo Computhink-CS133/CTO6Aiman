@@ -735,7 +735,10 @@ function draw() {
   x=constrain(x,50,950);
   y=constrain(y,50,950);
   if(keyIsDown(shift)){
-    speed=2
+    speed=5
+  }
+  else{
+    speed=1
   }
 }
 
