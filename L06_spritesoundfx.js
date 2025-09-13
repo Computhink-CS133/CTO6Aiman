@@ -425,6 +425,6 @@
 
 var staticimage,sfx
 
-function pr(params) {
-    
+function preload() {
+    staticimage = loadim
 }
