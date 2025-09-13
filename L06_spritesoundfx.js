@@ -427,7 +427,7 @@ var staticimage,sfx;
 
 function preload() {
     staticimage = loadImage("assets/pico-a.png");
-    sfx = loadSound("assets/DunDunDunnn.mp3");
+    sfx = loadSound("assets/star_wars_theme_8_bit.mp3");
 }
 
 function setup() {
