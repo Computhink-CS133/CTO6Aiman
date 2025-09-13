@@ -38,7 +38,9 @@ function draw() {
   }
 rect(x - rectsize,y- rectsize,rectsize,rectsize)
 
-if(keyIsDown===SPACE)
+if(keyIsDown===SPACE){
+    colour
+}
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
