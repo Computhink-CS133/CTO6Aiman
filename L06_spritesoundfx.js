@@ -4,8 +4,8 @@ var speed=0.1
 var rectsize = 10
 
 
-var x = 150
-var y = 150
+var x = 200
+var y = 200
 
 function setup(){
   createCanvas(400,400);
