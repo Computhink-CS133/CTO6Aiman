@@ -426,5 +426,5 @@
 var staticimage,sfx
 
 function preload() {
-    staticimage = loadim
+    staticimage = loadImage()
 }
