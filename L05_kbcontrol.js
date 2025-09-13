@@ -708,7 +708,7 @@ function draw() {
   {
     x+=1
   }
-  circle(500,500,100)
+  circle(x,500,100)
 }
 
 
