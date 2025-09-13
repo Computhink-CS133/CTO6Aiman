@@ -731,7 +731,7 @@ function draw() {
   x+=xvel;
   y+=yvel;
   xvel*=0.9;
-  yvel*=0.5;
+  yvel*=0.9;
   x=constrain(x,50,950);
   y=constrain(y,50,950);
   
