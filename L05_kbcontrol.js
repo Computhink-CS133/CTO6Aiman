@@ -737,7 +737,7 @@ function draw() {
   
   
   if(keyIsDown(SHIFT)){
-    speed=10
+    speed=3
   }
   else{
     speed=1
