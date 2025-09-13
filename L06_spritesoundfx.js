@@ -426,5 +426,5 @@
 var staticimage,sfx
 
 function preload() {
-    staticimage = loadImage()
+    staticimage = loadImage("assets/pico-a.png")
 }
