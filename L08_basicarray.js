@@ -7,9 +7,9 @@
 // let squarexvel=2;
 function setup(){
 createCanvas(600,400);
-background(100)
-textSize(50)
-text(" :)",300,200)
+background(100);
+textSize();
+text(" :)",300,200);
 }
 
 
