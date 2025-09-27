@@ -1,7 +1,7 @@
 // write your codes here
 //n0 :)
 let obj={k:1,c:2,d:3}
-let ballx=300;
+let squarex=300;
 let bally =200;
 const ballSize=30;
 let ballxvel=2;
