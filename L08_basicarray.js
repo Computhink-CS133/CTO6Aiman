@@ -15,7 +15,7 @@ noStroke();
 squarex+=squarexvel;
 squarey+=squareyvel;
 background(200);
-rect(squarex - squareSizeSize/2,squa - ballSize/2,ballSize,ballSize);
+rect(squarex - squareSizeSize/2,squarey - ballSize/2,ballSize,ballSize);
 
 if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
     ballxvel *= -1;
