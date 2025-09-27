@@ -23,7 +23,8 @@ if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
 
 }
 if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
-    ballyvel *= -1;    
+    ballyvel *= -1;  
+    fill(Math.random()*255,Math.random()*255,Math.random()*255);  
 
 }
 }
