@@ -24,6 +24,8 @@ if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
 }
 }
 function keyPressed(){
-    if (keycode===UP_ARROW)
+    if (keycode===UP_ARROW){
+        
+    }
 }
 
