@@ -17,7 +17,7 @@ squarey+=squareyvel;
 background(200);
 rect(squarex - squareSizeSize/2,squarey - squareSize/2,squareSize,squareSize);
 
-if (squarex - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
+if (squarex - squareSize/2 <=0 || sqx + ballSize/2 >= width ){
     ballxvel *= -1;
     fill(Math.random()*255,Math.random()*255,Math.random()*255);
 
