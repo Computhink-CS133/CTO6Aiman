@@ -11,7 +11,7 @@ background(100);
 textSize(200);
 text(" Hello im Aiman",50,50)
 text("Age :1111",50,100)
-
+text("fav activivty: IDK",50,150
 }
 
 
