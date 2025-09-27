@@ -8,7 +8,7 @@
 function setup(){
 createCanvas(600,400);
 background(100);
-textSize(200);
+textSize(1000);
 text(" :)",300,200);
 }
 
