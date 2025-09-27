@@ -5,7 +5,6 @@ let squarex=300;
 let squarey =200;
 const squareSize=30;
 let squarexvel=5;
-let squareyvel=0;
 function setup(){
 createCanvas(6000,300);
 
@@ -13,7 +12,6 @@ createCanvas(6000,300);
 function draw(){
 noStroke();
 squarex+=squarexvel;
-squarey+=squareyvel;
 background(200);
 rect(squarex - squareSize/2,squarey - squareSize/2,squareSize,squareSize);
 
