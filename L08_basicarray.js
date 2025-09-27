@@ -5,14 +5,14 @@ let squarex=300;
 let squarey =200;
 const squareSize=30;
 let squarexvel=2;
-let ballyvel=0;
+let squareyvel=0;
 function setup(){
 createCanvas(6000,4000);
 
 }
 function draw(){
 noStroke();
-ballx+=ballxvel;
+s+=ballxvel;
 bally+=ballyvel;
 background(200);
 rect(ballx - ballSize/2,bally - ballSize/2,ballSize,ballSize);
