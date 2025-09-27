@@ -3,8 +3,8 @@
 let ballx=300;
 let bally =200;
 const ballSize=30;
-let ballxvel=10;
-let ballyvel=10;
+let ballxvel=50;
+let ballyvel=50;
 function setup(){
 createCanvas(600,400);
 background(200);
