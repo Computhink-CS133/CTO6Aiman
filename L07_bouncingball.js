@@ -29,8 +29,8 @@ function keyPressed(){
         ballyvel*=1;
     }
     if (keyCode===DOWN_ARROW){
-        ballxvel-=1;
-        ballyvel-=1;
+        ballxvel*=2;
+        ballyvel*=2;
     }
 console.log("Speed: "+ ballxvel)
 }
