@@ -6,7 +6,7 @@
 // const squareSize=30;
 // let squarexvel=2;
 function setup(){
-createCanvas(600,400);
+createCanvas(6000,4000
 background(100);
 textSize(200);
 text(" Hello imqwertyuiopasdfghjklzxcvbnm",50,50);
