@@ -11,7 +11,7 @@ background(100);
 textSize(200);
 let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
 for (let i=0;i<favfood.length;i++){
-    text(favfood[i],100,100*i);
+    text(favfood[i],100,50*i);
 }
 }
 
