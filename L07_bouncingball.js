@@ -18,7 +18,7 @@ if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
     ballxvel *= -1;
 }
 if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
-    ballxvel *= -1;
+    ballyvel *= -1;
 }
 }
 
