@@ -9,7 +9,7 @@ function setup(){
 createCanvas(6000,4000);
 background(100);
 textSize(200);
-la
+let 
 }
 
 
