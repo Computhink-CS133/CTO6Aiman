@@ -34,5 +34,5 @@ function keyPressed(){
     }
 
 }
-console.log("")
+console.log("Speed: "+ ballxvel)
 
