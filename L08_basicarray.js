@@ -10,7 +10,8 @@ createCanvas(600,400);
 background(100);
 textSize(200);
 text(" Hello im Aiman",50,50)
-text("Age :1111"50,100)
+text("Age :1111",50,100)
+
 }
 
 
