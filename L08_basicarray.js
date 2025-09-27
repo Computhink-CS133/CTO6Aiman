@@ -17,11 +17,11 @@ bally+=ballyvel;
 rect(ballx - ballSize/2,bally - ballSize/2,ballSize,ballSize);
 if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
     ballxvel *= -1;
-    fill(Math.random()*255,Math.random()*255,Math.random()*255)
+
 }
 if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
     ballyvel *= -1;    
-    fill(Math.random()*255,Math.random()*255,Math.random()*255)
+
 }
 }
 function keyPressed(){
