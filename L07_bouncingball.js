@@ -18,6 +18,7 @@ bally+=ballyvel;
 circle(ballx,bally,ballSize);
 if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
     ballxvel *= -1;
+    colour
 }
 if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
     ballyvel *= -1;
