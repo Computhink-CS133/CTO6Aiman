@@ -24,14 +24,5 @@ if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
 
 }
 }
-function keyPressed(){
-    if (keyCode===UP_ARROW){
-        ballxvel*=2;
-        ballyvel*=2;
-    }
-    if (keyCode===DOWN_ARROW){
-        ballxvel*=0.5;
-        ballyvel*=0.5;
-    }
-console.log("Speed: "+ Math.abs(ballxvel))
-}
+
+
