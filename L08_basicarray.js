@@ -14,7 +14,7 @@ function draw(){
 noStroke();
 ballx+=ballxvel;
 bally+=ballyvel;
-circle(ballx,bally,ballSize);
+rect(ballx - ballSize/2,bally,ballSize);
 if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
     ballxvel *= -1;
     fill(Math.random()*255,Math.random()*255,Math.random()*255)
