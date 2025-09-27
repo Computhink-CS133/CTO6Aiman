@@ -4,7 +4,7 @@ let obj={k:1,c:2,d:3}
 let squarex=300;
 let squarey =200;
 const squareSize=30;
-let ballxvel=2;
+let squarexvel=2;
 let ballyvel=0;
 function setup(){
 createCanvas(6000,4000);
