@@ -23,4 +23,5 @@ if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
     fill(Math.random()*255,Math.random()*255,Math.random()*255)
 }
 }
+function keyPressed()
 
