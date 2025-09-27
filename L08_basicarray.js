@@ -9,7 +9,8 @@ function setup(){
 createCanvas(600,400);
 background(100);
 textSize(200);
-text(" :)",300,200);
+text(" Hello im Aiman",50,50)
+
 }
 
 
