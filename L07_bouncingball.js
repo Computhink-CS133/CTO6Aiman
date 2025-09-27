@@ -29,8 +29,8 @@ function keyPressed(){
         ballyvel+=1
     }
         if (keycode===DOWN_ARROW){
-        ballxvel+=1
-        ballyvel+=1
+        ballxvel-=1
+        ballyvel-=1
     }
 
 }
