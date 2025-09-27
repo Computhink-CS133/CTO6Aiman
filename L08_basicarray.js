@@ -13,7 +13,7 @@ createCanvas(6000,4000);
 function draw(){
 noStroke();
 squarex+=squarexvel;
-s+=ballyvel;
+squarey+=squareyvel;
 background(200);
 rect(ballx - ballSize/2,bally - ballSize/2,ballSize,ballSize);
 
