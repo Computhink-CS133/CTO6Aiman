@@ -7,7 +7,7 @@ const squareSize=30;
 let squarexvel=2;
 let squareyvel=0;
 function setup(){
-createCanvas(6000,100);
+createCanvas(6000,300);
 
 }
 function draw(){
