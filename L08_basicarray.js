@@ -7,7 +7,7 @@ const ballSize=30;
 let ballxvel=2;
 let ballyvel=0;
 function setup(){
-createCanvas(6000,4000);
+createCanvas(600,400);
 
 }
 function draw(){
