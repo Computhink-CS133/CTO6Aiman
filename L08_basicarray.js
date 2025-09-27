@@ -10,7 +10,7 @@ createCanvas(6000,4000);
 background(100);
 textSize(200);
 let favfood=["Monke","Cavemen","Dog","Grep","alep","langur","mus","pizarea","piizaman","colddog"]
-
+for (let i=0;i<favfood.length;i++)
 }
 
 
