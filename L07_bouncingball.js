@@ -34,5 +34,5 @@ function keyPressed(){
     }
 
 }
-console.
+console.log("")
 
