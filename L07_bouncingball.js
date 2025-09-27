@@ -14,11 +14,11 @@ ballx+=ballxvel;
 bally+=ballyvel;
 background(200);
 circle(ballx,bally,ballSize);
-if (ballx - ballSize/2 <=0 || ballx + ballSize/2 <=width ){
-    ballxvel *= -1
+if (ballx - ballSize/2 <=0 || ballx + ballSize/2 <= width ){
+    ballxvel *= -1;
 }
-if (ballx - ballSize/2 <=0 || ballx + ballSize/2 <=height){
-    ballxvel *= -1
+if (ballx - ballSize/2 <=0 || ballx + ballSize/2 <= height){
+    ballxvel *= -1;
 }
 }
 
