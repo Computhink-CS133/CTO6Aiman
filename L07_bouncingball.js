@@ -32,7 +32,7 @@ function keyPressed(){
         ballxvel-=1;
         ballyvel-=1;
     }
-
+console.log("Speed: "+ ballxvel)
 }
 
 
