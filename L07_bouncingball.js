@@ -10,6 +10,7 @@ createCanvas(600,400);
 background(200);
 }
 function draw(){
+
 ballx+=ballxvel;
 bally+=ballyvel;
 background(200);
