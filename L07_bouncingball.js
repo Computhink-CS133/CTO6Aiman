@@ -11,6 +11,7 @@ background(200);
 }
 function draw(){
 noStroke();
+fill()
 ballx+=ballxvel;
 bally+=ballyvel;
 background(200);
