@@ -8,13 +8,14 @@ let ballxvel=2;
 let ballyvel=0;
 function setup(){
 createCanvas(6000,4000);
-background(200);
+
 }
 function draw(){
 noStroke();
 ballx+=ballxvel;
 bally+=ballyvel;
 rect(ballx - ballSize/2,bally - ballSize/2,ballSize,ballSize);
+background(200);
 if (ballx - ballSize/2 <=0 || ballx + ballSize/2 >= width ){
     ballxvel *= -1;
 
