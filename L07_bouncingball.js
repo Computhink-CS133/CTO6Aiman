@@ -25,8 +25,8 @@ if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
 }
 function keyPressed(){
     if (keyCode===UP_ARROW){
-        ballxvel+=1;
-        ballyvel+=1;
+        ballxvel*=1;
+        ballyvel*=1;
     }
     if (keyCode===DOWN_ARROW){
         ballxvel-=1;
