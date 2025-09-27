@@ -32,7 +32,7 @@ function keyPressed(){
         ballxvel*=0.5;
         ballyvel*=0.5;
     }
-console.log("Speed: "+ ballxvel)
+console.log("Speed: "+ Math.abs(ballxvel))
 }
 
 
