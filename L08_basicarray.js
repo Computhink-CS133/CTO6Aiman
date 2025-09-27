@@ -6,7 +6,7 @@
 // const squareSize=30;
 // let squarexvel=2;
 function setup(){
-createCanvas(6000300);
+createCanvas(600,400)
 
 }
 
