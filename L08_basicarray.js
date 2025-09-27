@@ -9,7 +9,7 @@ function setup(){
 createCanvas(6000,4000);
 background(100);
 textSize(200);
-let favfood=["Monke","Cavemen","Dog","Grep","apelangur","mus","pizarea","piizaman","colddog"];
+let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
 for (let i=0;i<favfood.length;i++){
     text(favfood[i],100,100*i);
 }
