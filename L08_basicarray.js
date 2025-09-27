@@ -9,9 +9,9 @@ function setup(){
 createCanvas(600,400);
 background(100);
 textSize(200);
-text(" Hello imqwertyuiopasdfghjklzxcvbnm",0,50)
-text("Age :1111",50,100)
-text("fav activivty: IDK",50,150)
+text(" Hello imqwertyuiopasdfghjklzxcvbnm",50,50);
+text("Age :1111",50,100);
+text("fav activivty: IDK",50,150);
 }
 
 
