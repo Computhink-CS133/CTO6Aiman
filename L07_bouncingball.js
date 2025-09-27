@@ -2,7 +2,7 @@
 //no :)
 let ballx=300;
 let bally =200;
-let colour = Math.random()*255;
+
 const ballSize=30;
 let ballxvel=100;
 let ballyvel=100;
