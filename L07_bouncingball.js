@@ -2,7 +2,6 @@
 //no :)
 let ballx=300;
 let bally =200;
-
 const ballSize=30;
 let ballxvel=2;
 let ballyvel=2;
@@ -12,7 +11,6 @@ background(200);
 }
 function draw(){
 noStroke();
-fill(colour);
 ballx+=ballxvel;
 bally+=ballyvel;
 circle(ballx,bally,ballSize);
