@@ -14,4 +14,8 @@ ballx+=ballxvel;
 bally+=ballyvel;
 background(200);
 circle(ballx,bally,ballSize);
+if (ballx - ballSize/2 <=0 || ballx + ballSize/2 <=width ){
+    ball
 }
+}
+
