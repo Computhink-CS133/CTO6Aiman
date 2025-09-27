@@ -6,7 +6,7 @@ const ballSize=30;
 let ballxvel=2;
 let ballyvel=2;
 function setup(){
-createCanvas(600,400);
+createCanvas(6000,4000);
 background(200);
 }
 function draw(){
@@ -25,8 +25,8 @@ if (bally - ballSize/2 <=0 || bally + ballSize/2 >= height){
 }
 function keyPressed(){
     if (keyCode===UP_ARROW){
-        ballxvel*=1.5;
-        ballyvel*=1.5;
+        ballxvel*=2;
+        ballyvel*=2;
     }
     if (keyCode===DOWN_ARROW){
         ballxvel*=0.5;
