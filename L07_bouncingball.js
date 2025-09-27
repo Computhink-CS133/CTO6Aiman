@@ -30,7 +30,7 @@ function keyPressed(){
     }
     if (keyCode===DOWN_ARROW){
         ballxvel*=0.5;
-        ballyvel*=0.9;
+        ballyvel*=0.5;
     }
 console.log("Speed: "+ Math.abs(ballxvel))
 }
