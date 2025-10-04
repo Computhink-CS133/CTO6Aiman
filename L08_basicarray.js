@@ -12,6 +12,7 @@ createCanvas(6000,4000);
 background(100);
 textSize(200);
 textAlign(LEFT,TOP);
+}
 
 function draw(){
 
@@ -22,7 +23,7 @@ for (let i=0;i<20;i++){
     movepos+=1
 }
 }
-}
+
 
 
 
