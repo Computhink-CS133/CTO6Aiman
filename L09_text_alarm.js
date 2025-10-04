@@ -10,6 +10,7 @@ textSize(50);
 textAlign(CENTER,CENTER);
 }
 let xpos=0
+let xspeed=0
 function draw(){
 
 background(100);
