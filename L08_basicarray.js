@@ -10,7 +10,7 @@ let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman",
 function setup(){
 createCanvas(6000,4000);
 background(100);
-textSize(200);
+textSize(500);
 textAlign(LEFT,TOP);
 }
 let movepos=0
