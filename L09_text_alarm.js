@@ -19,7 +19,8 @@ background(100);
 // translate(xpos,height/2)
 
 text("Bounce",width/2 +xpos,height/2)
-xpos-=1
+xpos-=xspeed
+xspeed+=1
 // pop();
 
 }
