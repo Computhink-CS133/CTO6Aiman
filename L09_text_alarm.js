@@ -9,11 +9,11 @@ background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
 }
-
+let xpos=width
 function draw(){
 
 background(100);
-let xpos=width
+
 push();
 translate(xpos,height/2)
 
