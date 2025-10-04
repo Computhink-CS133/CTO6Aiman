@@ -19,6 +19,7 @@ createCanvas(1000,800);
 background(100);
 textSize(50);
 
+
 }
 let movepos=height
 function draw(){
