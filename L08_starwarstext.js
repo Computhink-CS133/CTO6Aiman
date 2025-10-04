@@ -39,7 +39,7 @@ translate(width/2,movepos);
 scale(1.3,2);
 if (started){
 for(let i=0;i<storyText.length;i++){
-    text(storyText[i],0,50*i+movepos);
+    text(storyText[i],0,50*i);
 }
 movepos-=0.3;
 }
