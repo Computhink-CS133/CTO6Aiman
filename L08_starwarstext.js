@@ -15,7 +15,7 @@ let storyText = [
 "May the Code be with you!"
 ];
 function setup(){
-createCanvas(600,400);
+createCanvas(1000,500);
 background(100);
 textSize(50);
 textAlign(LEFT,TOP);
