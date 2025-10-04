@@ -15,6 +15,12 @@ let storyText = [
 "May the Code be with you!"
 ];
 let movepos=200;
+let audiostarted = false;
+let bgmusic;
+function preload() {
+
+    sfx = loadSound("assets/star_wars_theme_8_bit.mp3");
+}
 
 function setup(){
 createCanvas(1000,800);
@@ -38,6 +44,12 @@ pop();
 movepos-=0.3;
 
 }
-function mousePressed(){
-    
-}
+// function mousePressed(){
+//     if (!audiostarted?){
+//     audiostarted=true
+//     }
+//     else(){
+//         bgmusic.loop();
+//         audiostarted=false
+//     }
+// }
