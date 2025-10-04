@@ -23,7 +23,7 @@ for(let i=0;i<favfood.length;i++){
 
   
 }
-movepos-=1
+movepos+=1
 
 }
 
