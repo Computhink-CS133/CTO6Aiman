@@ -13,7 +13,7 @@ textAlign(CENTER,CENTER);
 function draw(){
 
 background(100);
-let xpos=
+let xpos=width
 push();
 translate(xpos)
 
