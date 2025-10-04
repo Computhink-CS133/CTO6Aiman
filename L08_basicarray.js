@@ -11,7 +11,7 @@ background(100);
 textSize(200);
 textAlign(RIGHT,TOP);
 let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
-for (let i=1;i<favfood.length;i++){
+for (let i=0;i<favfood.length;i++){
     text(favfood[i],100,50*i);
 }
 }
