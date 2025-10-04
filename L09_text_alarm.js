@@ -18,8 +18,8 @@ push();
 translate(xpos,height/2)
 
 text("Bounce",width/2,height/2)
-
-pop();
 xpos-=1
+pop();
+
 }
 
