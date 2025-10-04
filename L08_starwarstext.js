@@ -43,7 +43,7 @@ for(let i=0;i<storyText.length;i++){
 }
 }
 else{
-    text()
+    text("Click to start")
 }
 
 pop();
@@ -59,4 +59,5 @@ function mousePressed(){
         bgmusic.stop();
         audiostarted=false;
     }
+    
 }
