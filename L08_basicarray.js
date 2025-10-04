@@ -16,11 +16,12 @@ textAlign(LEFT,TOP);
 
 function draw(){
 
-while (true)
+while (true){
     let movepos=0
     text(favfood,1*i+movepos,2*i+movepos);
     background(100);
     movepos+=1
+}
 
 }
 
