@@ -18,7 +18,8 @@ function setup(){
 createCanvas(1000,800);
 background(100);
 textSize(50);
-textAlign(CustomElementRegistry,CENTRE);
+textAlign(CENTER,CENTER);
+PUSH
 
 }
 let movepos=height
