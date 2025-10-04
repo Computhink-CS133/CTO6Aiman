@@ -24,7 +24,7 @@ let movepos=0
 function draw(){
 
 background(100);
-for(let i=0;i<favfood.length;i++){
+for(let i=0;i<storyText.length;i++){
   
     text(favfood[i],50,50*i+movepos);
 
