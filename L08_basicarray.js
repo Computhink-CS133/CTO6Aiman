@@ -9,7 +9,7 @@ function setup(){
 createCanvas(6000,4000);
 background(100);
 textSize(200);
-textAlign(RIGHT,TOP);
+textAlign(RIGHT,CENTRE);
 }
 function draw(){
 let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
