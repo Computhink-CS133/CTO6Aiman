@@ -18,7 +18,7 @@ function setup(){
 createCanvas(1000,800);
 background(100);
 textSize(50);
-textAlign(TOP+100);
+textAlign(BOTTOM-100);
 }
 let movepos=0
 function draw(){
@@ -30,6 +30,6 @@ for(let i=0;i<storyText.length;i++){
 
   
 }
-movepos+=0.3
+movepos-=0.3
 
 }
