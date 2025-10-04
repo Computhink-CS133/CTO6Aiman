@@ -12,9 +12,8 @@ createCanvas(6000,4000);
 background(100);
 textSize(200);
 textAlign(LEFT,TOP);
-text(favfood,0,0);
 for (let i=0;i<10;i++){
-    
+    text(favfood,0,0);
 }
 }
 function draw(){
