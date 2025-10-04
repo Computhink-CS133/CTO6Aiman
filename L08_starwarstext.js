@@ -19,7 +19,7 @@ let audiostarted = false;
 let bgmusic;
 function preload() {
 
-    sfx = loadSound("assets/star_wars_theme_8_bit.mp3");
+    bgmusic= loadSound("assets/star_wars_theme_8_bit.mp3");
 }
 
 function setup(){
