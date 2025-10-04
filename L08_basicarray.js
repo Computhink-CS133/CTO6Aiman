@@ -11,7 +11,7 @@ function setup(){
 createCanvas(6000,4000);
 background(100);
 textSize(200);
-textAlign(RIGHT,CENTER);
+textAlign(RIGHT);
 text(favfood,0,0);
 }
 function draw(){
