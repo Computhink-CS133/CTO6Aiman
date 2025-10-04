@@ -14,6 +14,6 @@ function draw(){
 
 background(100);
 
-text()
+text("Bounce",0,0)
 }
 
