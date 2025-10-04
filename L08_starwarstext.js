@@ -59,5 +59,5 @@ function mousePressed(){
         bgmusic.stop();
         audiostarted=false;
     }
-    
+    started=true
 }
