@@ -36,6 +36,8 @@ scale(1,3);
 for(let i=0;i<storyText.length;i++){
     text(storyText[i],50,50*i+movepos);
 }
-movepos-=0.3
+
 pop();
+movepos-=0.3
+
 }
