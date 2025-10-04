@@ -14,12 +14,12 @@ function draw(){
 
 background(100);
 
-push();
-translate(xpos,height/2)
+// push();
+// translate(xpos,height/2)
 
-text("Bounce",width/2,height/2)
+text("Bounce",width/2+xpos,height/2)
 xpos-=1
-pop();
+// pop();
 
 }
 
