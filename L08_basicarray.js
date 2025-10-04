@@ -19,10 +19,10 @@ function draw(){
 for(let i=0;i<favfood.length;i++){
     let movepos=0
     text(favfood[i],50,50*i);
-    
-    movepos+=1
-}
 
+  
+}
+  movepos-=
 }
 
 
