@@ -15,7 +15,7 @@ function draw(){
 background(100);
 let xpos=width
 push();
-translate(xpos)
+translate(width/2,xpos)
 xpos-=1
 text("Bounce",width/2,height/2)
 
