@@ -14,7 +14,7 @@ textAlign(LEFT,TOP);
 function draw(){
 let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
 for (let i=0;i<favfood.length;i++){
-    text(favfood[i],100,50*i);
+    text(favfood[i],100,200*i);
 }
 }
 
