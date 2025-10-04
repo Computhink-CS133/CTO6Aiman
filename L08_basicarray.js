@@ -20,6 +20,7 @@ function draw(){
 // }
 for (let i=0;i<20;i++){
     text(favfood,1*i+movepos,2*i);
+    background(100);
 }
 }
 }
