@@ -31,7 +31,9 @@ function draw(){
 background(100);
 
 push();
-translate(width/2,movepos);for(let i=0;i<storyText.length;i++){
+translate(width/2,movepos);
+scale
+for(let i=0;i<storyText.length;i++){
   
     text(storyText[i],50,50*i+movepos);
 
