@@ -30,7 +30,7 @@ function draw(){
 
 background(100);
 
-Push();
+push();
 translate(width/2,movepos);for(let i=0;i<storyText.length;i++){
   
     text(storyText[i],50,50*i+movepos);
