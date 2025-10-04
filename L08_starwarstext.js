@@ -14,17 +14,13 @@ let storyText = [
 "",
 "May the Code be with you!"
 ];
-let movepos=800;
+let movepos=200;
 
 function setup(){
 createCanvas(1000,800);
 background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
-
-
-
-
 }
 
 function draw(){
