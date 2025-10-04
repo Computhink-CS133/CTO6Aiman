@@ -19,7 +19,7 @@ createCanvas(1000,800);
 background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
-PUSH
+Push()
 
 }
 let movepos=height
