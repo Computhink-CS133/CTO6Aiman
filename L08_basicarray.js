@@ -15,9 +15,6 @@ textAlign(LEFT,TOP);
 
 function draw(){
 
-// for (let i=0;i<favfood.length;i++){
-//     text(favfood[i],100,10*i);
-// }
 for (let i=0;i<20;i++){
     let movepos=0
     text(favfood,1*i+movepos,2*i+movepos);
