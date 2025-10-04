@@ -19,8 +19,8 @@ background(100);
 // translate(xpos,height/2)
 
 text("Bounce",width/2 +xpos,height/2)
-if (xpos<0){
-xspeed=-10
+if (xpos<-10){
+xspeed=-100
 }
 xpos-=xspeed
 xspeed+=0.1
