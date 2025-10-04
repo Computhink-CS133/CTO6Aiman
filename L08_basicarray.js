@@ -12,7 +12,7 @@ createCanvas(6000,4000);
 background(100);
 textSize(200);
 textAlign(LEFT,TOP);
-for (let i=0;i<30;i++){
+for (let i=0;i<20;i++){
     text(favfood,1*i,2*i);
 }
 }
