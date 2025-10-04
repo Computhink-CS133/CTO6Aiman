@@ -19,7 +19,7 @@ function draw(){
 //     text(favfood[i],100,10*i);
 // }
 for (let i=0;i<20;i++){
-    text(favfood,1*i,2*i);
+    text(favfood,1*i+movepos,2*i);
 }
 }
 }
