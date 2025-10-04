@@ -30,6 +30,6 @@ for(let i=0;i<storyText.length;i++){
 
   
 }
-movepos+=0.1
+movepos+=0.3
 
 }
