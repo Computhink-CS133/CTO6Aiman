@@ -12,15 +12,16 @@ createCanvas(6000,4000);
 background(100);
 textSize(200);
 textAlign(LEFT,TOP);
-for (let i=0;i<20;i++){
-    text(favfood,1*i,2*i);
-}
-}
+
 function draw(){
 
 // for (let i=0;i<favfood.length;i++){
 //     text(favfood[i],100,10*i);
 // }
+for (let i=0;i<20;i++){
+    text(favfood,1*i,2*i);
+}
+}
 }
 
 
