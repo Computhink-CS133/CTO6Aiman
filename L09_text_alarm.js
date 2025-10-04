@@ -20,10 +20,10 @@ background(100);
 
 text("Bounce",width/2 +xpos,height/2)
 if (xpos<0){
-    
+
 }
 xpos-=xspeed
-xspeed+=1
+xspeed+=0.1
 // pop();
 
 
