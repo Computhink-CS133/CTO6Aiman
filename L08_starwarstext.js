@@ -32,7 +32,7 @@ background(100);
 
 push();
 translate(width/2,movepos);
-scale
+scale(1,1)
 for(let i=0;i<storyText.length;i++){
   
     text(storyText[i],50,50*i+movepos);
