@@ -20,11 +20,11 @@ background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
 Push();
-translate(width/2,)
+translate(width/2,movepos)
 
 
 }
-let movepos=height
+
 function draw(){
 
 background(100);
