@@ -14,13 +14,15 @@ let storyText = [
 "",
 "May the Code be with you!"
 ];
+let movepos=height
 function setup(){
 createCanvas(1000,800);
 background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
 Push();
-translate(width/2,movepos)
+translate(width/2,movepos);
+
 
 
 }
