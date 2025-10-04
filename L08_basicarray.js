@@ -13,7 +13,7 @@ textAlign(CENTER,CENTER);
 text(favfood,0,0);
 }
 function draw(){
-// let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
+
 // for (let i=0;i<favfood.length;i++){
 //     text(favfood[i],100,10*i);
 // }
