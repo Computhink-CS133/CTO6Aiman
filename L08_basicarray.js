@@ -13,9 +13,9 @@ background(100);
 textSize(200);
 textAlign(LEFT,TOP);
 }
-
-function draw(){
 let movepos=0
+function draw(){
+
 background(100);
 for(let i=0;i<favfood.length;i++){
   
