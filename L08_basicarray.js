@@ -19,7 +19,7 @@ function draw(){
 background(100);
 for(let i=0;i<favfood.length;i++){
   
-    text(favfood[i],50,50*i+movepos);
+    text(favfood[i],50+movepos,50*i+movepos);
 
   
 }
