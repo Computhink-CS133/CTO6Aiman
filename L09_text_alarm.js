@@ -14,7 +14,8 @@ function draw(){
 
 background(100);
 
-push()
+push();
+translate()
 
 
 
