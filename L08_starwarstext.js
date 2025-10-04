@@ -38,4 +38,6 @@ pop();
 movepos-=0.3;
 
 }
-functionmo(){}
+function mousePressed(){
+    
+}
