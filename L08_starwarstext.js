@@ -20,7 +20,7 @@ background(100);
 textSize(50);
 textAlign(BOTTOM);
 }
-let movepos=0
+let movepos=HEIGHT
 function draw(){
 
 background(100);
