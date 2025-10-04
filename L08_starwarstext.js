@@ -17,7 +17,7 @@ let storyText = [
 let movepos=200;
 let audiostarted = false;
 let bgmusic;
-let started=
+let started=false
 function preload() {
 
     bgmusic= loadSound("assets/star_wars_theme_8_bit.mp3");
