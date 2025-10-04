@@ -3,3 +3,15 @@
 
 
 
+function setup(){
+createCanvas(1000,800);
+background(100);
+textSize(50);
+textAlign(CENTER,CENTER);
+}
+
+function draw(){
+
+background(100);
+}
+
