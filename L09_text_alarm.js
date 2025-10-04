@@ -13,5 +13,7 @@ textAlign(CENTER,CENTER);
 function draw(){
 
 background(100);
+
+text()
 }
 
