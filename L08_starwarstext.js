@@ -44,12 +44,13 @@ pop();
 movepos-=0.3;
 
 }
-// function mousePressed(){
-//     if (!audiostarted?){
-//     audiostarted=true
-//     }
-//     else(){
-//         bgmusic.loop();
-//         audiostarted=false
-//     }
-// }
+function mousePressed(){
+    if (!audiostarted) {
+    audiostarted=true;
+    bgmusic.loop()
+    }
+    else{
+        bgmusic.stop();
+        audiostarted=false;
+    }
+}
