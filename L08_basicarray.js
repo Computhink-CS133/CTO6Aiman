@@ -8,7 +8,7 @@ let obj={k:1,c:2,d:3}
 
 let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
 function setup(){
-createCanvas(60000,40000);
+createCanvas(6000,4000);
 background(100);
 textSize(500);
 textAlign(LEFT,TOP);
