@@ -41,13 +41,14 @@ if (started){
 for(let i=0;i<storyText.length;i++){
     text(storyText[i],0,50*i+movepos);
 }
+movepos-=0.3;
 }
 else{
     text("Click to start",0,0);
 }
 
 pop();
-movepos-=0.3;
+
 
 }
 function mousePressed(){
