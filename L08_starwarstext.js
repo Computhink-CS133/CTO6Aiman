@@ -20,7 +20,7 @@ background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
 Push();
-translate()
+translate(width/2,)
 
 
 }
