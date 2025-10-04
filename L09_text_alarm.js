@@ -13,9 +13,9 @@ textAlign(CENTER,CENTER);
 function draw(){
 
 background(100);
-
+let xpos=
 push();
-translate()
+translate(xpos)
 
 
 
