@@ -43,7 +43,7 @@ for(let i=0;i<storyText.length;i++){
 }
 }
 else{
-    text("Click to start")
+    text("Click to start",0,0);
 }
 
 pop();
