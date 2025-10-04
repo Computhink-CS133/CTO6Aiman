@@ -8,7 +8,7 @@ let obj={k:1,c:2,d:3}
 
 let favfood=["Monke","Cavemen","Dog","Grep","langur","mus","pizarea","piizaman","colddog"];
 function setup(){
-createCanvas(6000,4000);
+createCanvas(60000,40000);
 background(100);
 textSize(500);
 textAlign(LEFT,TOP);
@@ -19,7 +19,7 @@ function draw(){
 background(100);
 for(let i=0;i<favfood.length;i++){
   
-    text(favfood[i],50+movepos,50*i+movepos);
+    text(favfood[i],50+movepos,500*i+movepos);
 
   
 }
