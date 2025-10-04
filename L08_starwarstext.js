@@ -38,3 +38,4 @@ pop();
 movepos-=0.3;
 
 }
+functionmo(){}
