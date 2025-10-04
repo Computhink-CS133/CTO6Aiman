@@ -13,6 +13,9 @@ background(100);
 textSize(200);
 textAlign(LEFT,TOP);
 text(favfood,0,0);
+// for (let i=0;i<favfood.length;i++){
+//     text(favfood[i],100,10*i);
+// }
 }
 function draw(){
 
