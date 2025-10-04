@@ -20,8 +20,7 @@ createCanvas(1000,800);
 background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
-Push();
-translate(width/2,movepos);
+
 
 
 
@@ -30,7 +29,9 @@ translate(width/2,movepos);
 function draw(){
 
 background(100);
-for(let i=0;i<storyText.length;i++){
+
+Push();
+translate(width/2,movepos);for(let i=0;i<storyText.length;i++){
   
     text(storyText[i],50,50*i+movepos);
 
