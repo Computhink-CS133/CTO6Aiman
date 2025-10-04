@@ -18,7 +18,7 @@ function setup(){
 createCanvas(1000,800);
 background(100);
 textSize(50);
-textAlign(BOTTOM-100);
+textAlign(BOTTOM-900);
 }
 let movepos=0
 function draw(){
