@@ -16,7 +16,7 @@ background(100);
 let xpos=width
 push();
 translate(xpos)
-
+xpos-=1
 text("Bounce",0,0)
 
 pop();
