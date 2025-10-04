@@ -9,7 +9,7 @@ background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
 }
-let xpos=width
+let xpos=width/2
 function draw(){
 
 background(100);
