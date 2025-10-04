@@ -32,7 +32,7 @@ textAlign(CENTER,CENTER);
 
 function draw(){
 
-background(100);
+// background(100);
 
 push();
 translate(width/2,movepos);
