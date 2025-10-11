@@ -6,7 +6,7 @@ let alarm;
 
 function preload() {
 
-    alarm= loadSound("assets/star_wars_theme_8_bit.mp3");
+    alarm= loadSound("assets/bossaNova.mp3");
 }
 function setup(){
 createCanvas(1000,800);
@@ -25,7 +25,7 @@ if (countdown>0){
 }
 else{
     clearInterval(timer);
-
+    
 }
 
    
