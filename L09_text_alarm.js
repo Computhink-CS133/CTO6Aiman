@@ -21,7 +21,7 @@ let timer;
 let alarmefx=1
 let bgcolour1=255
 let bgcolour2=255
-let bgcolour3=2
+let bgcolour3=255
 let efxctrl;
 
 function bgefx(){
