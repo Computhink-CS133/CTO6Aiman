@@ -16,7 +16,7 @@ textAlign(CENTER,CENTER);
 
 
 }
-let countdown=1 
+let countdown=10 
 let timer;
 let alarmefx=1 
 
