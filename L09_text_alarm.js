@@ -11,6 +11,16 @@ textAlign(CENTER,CENTER);
 
 
 }
+function settimer(){
+    let timer = 10
+    timer--
+    return timer
+}
+function mousePressed(){
+     let global,countdown = setInterval(settimer,1000);
+     
+
+}
 // let xpos=0
 // let xspeed=0
 // function draw(){
@@ -45,15 +55,5 @@ textSize(100);
 text(time,500,400);
 console.log(time);
 
-
-}
-function settimer(){
-    let timer = 10
-    timer--
-    return timer
-}
-function mousePressed(){
-     let global,countdown = setInterval(settimer,1000);
-     
 
 }
