@@ -20,7 +20,7 @@ if (timer>0){
 else{
     clearInterval(countdown);
 }
-return timer
+
    
 }
 function mousePressed(){
