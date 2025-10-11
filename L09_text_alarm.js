@@ -48,5 +48,6 @@ console.log(time);
 
 }
 function settimer(){
-    let count
+    let timer = 5
+    
 }
