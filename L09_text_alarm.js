@@ -23,14 +23,12 @@ let bgcolour;
 
 function bgefx(){
 
-if (alarmefx>0){
-   countdown-=1;
-}
-else{
+
+
     clearInterval(timer);
     alarmefx = setInterval(bgefx,500)
 
-}
+
 }
 function settimer(){
 
