@@ -20,6 +20,8 @@ let countdown=10
 let timer;
 let alarmefx=1
 let bgcolour1=100
+let bgcolour2=0
+let bgcolour3=00
 let efxctrl;
 
 function bgefx(){
