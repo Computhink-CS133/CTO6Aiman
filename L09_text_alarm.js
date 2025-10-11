@@ -14,7 +14,7 @@ textAlign(CENTER,CENTER);
 let countdown 
 function settimer(){
     let timer = 10
-    timer--
+    timer-=1
     return timer
 }
 function mousePressed(){
