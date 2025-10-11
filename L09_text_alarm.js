@@ -51,4 +51,6 @@ function settimer(){
     let timer = 10
     timer--
 }
-function mousePressed()
+function mousePressed(){
+    
+}
