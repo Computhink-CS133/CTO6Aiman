@@ -39,7 +39,7 @@ h = hour();
 m = minute();
 s = second();
 time = h + ":"+ m + ":" + s;
-text(0,0,time);
+text(500,400,time);
 background(100);
 console.log(time)
 }
