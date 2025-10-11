@@ -20,7 +20,7 @@ if (timer>0){
 else{
     clearInterval(interval);
 }
-return
+return timer
    
 }
 function mousePressed(){
