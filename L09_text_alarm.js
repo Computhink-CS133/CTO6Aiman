@@ -78,7 +78,7 @@ timer = setInterval(settimer,1000);
 
 function draw(){
 
-background(bgcolour1,);
+background(bgcolour1,bgcolour2,bgcolour3);
  
 let h = hour();
 let m = minute();
