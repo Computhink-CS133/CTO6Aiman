@@ -18,7 +18,7 @@ if (timer>0){
     timer-=1
 }
 else{
-    clearInterval(interval);
+    clearInterval(countdown);
 }
 return timer
    
