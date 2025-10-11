@@ -28,7 +28,7 @@ if (alarmefx>0){
 }
 else{
     clearInterval(efxctrl);
-    
+    bgcolour=
     alarmefx = setInterval(bgefx,500);
 
 
