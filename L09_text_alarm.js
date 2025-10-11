@@ -15,7 +15,7 @@ let countdown
 function settimer(){
     let countdown = 10
 if (countdown>0){
-    timer-=1
+   countdown-=1
 }
 else{
     clearInterval(countdown);
