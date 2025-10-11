@@ -25,7 +25,8 @@ if (countdown>0){
 }
 else{
     clearInterval(timer);
-    alarm.play()
+
+
 }
 
    
