@@ -15,8 +15,9 @@ let countdown
 function settimer(){
     let timer = 10
 if (timer>0){
-    timer
+    timer-=1
 }
+else
 
    
 }
