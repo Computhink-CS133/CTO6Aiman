@@ -19,7 +19,7 @@ textAlign(CENTER,CENTER);
 let countdown=10 
 let timer;
 let alarmefx=1
-let bgcolour=100
+let bgcolour1=100
 let efxctrl;
 
 function bgefx(){
@@ -28,7 +28,7 @@ if (alarmefx>0){
 }
 else{
     clearInterval(efxctrl);
-    bgcolour=Math.random()*255
+    bgcolour1=Math.random()*255
     alarmefx = setInterval(bgefx,1);
 
 
