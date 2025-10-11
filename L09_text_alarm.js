@@ -58,7 +58,7 @@ else{
    
 }
 function mousePressed(){
-
+    if (!timerstart)
     timer = setInterval(settimer,1000);
     }
 // let xpos=0
