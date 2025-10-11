@@ -20,7 +20,7 @@ let countdown=10
 let timer;
 let alarmefx=1
 let bgcolour;
-let efx
+let efxctrl;
 
 function bgefx(){
 if (alarmefx>0){
