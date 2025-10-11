@@ -12,8 +12,9 @@ textAlign(CENTER,CENTER);
 
 }
 let countdown 
+let timer = 10
 function settimer(){
-    let timer = 10
+
 if (timer>0){
    timer-=1
 }
