@@ -6,7 +6,7 @@ let alarm;
 
 function preload() {
 
-    alarm= loadSound("assets/pop.mp3");
+    alarm= loadSound("assets/bossaNova.mp3");
 }
 function setup(){
 createCanvas(1000,800);
