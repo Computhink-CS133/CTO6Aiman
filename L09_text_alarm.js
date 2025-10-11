@@ -29,7 +29,7 @@ let lastsfx
 
 function bgefx(){
 alarmactive = true;
- if (alarmactive = true) 
+ if (alarmactive = true){ 
 if (alarmefx>0){
    alarmefx-=1;
    
@@ -42,7 +42,7 @@ else{
     alarmefx = setInterval(bgefx,100);
 
 
-
+}
 
 }
 
