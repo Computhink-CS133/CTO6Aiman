@@ -11,7 +11,7 @@ textAlign(CENTER,CENTER);
 
 
 }
-let countdown=10 
+let countdown=60 
 let timer
 function settimer(){
 
