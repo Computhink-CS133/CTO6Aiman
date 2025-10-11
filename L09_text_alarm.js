@@ -21,7 +21,7 @@ let timer;
 let alarmefx=1
 let bgcolour1=100
 let bgcolour2=0
-let bgcolour3=00
+let bgcolour3=0
 let efxctrl;
 
 function bgefx(){
@@ -30,7 +30,9 @@ if (alarmefx>0){
 }
 else{
     clearInterval(efxctrl);
-    bgcolour1=Math.random()*255
+    bgcolour1=Math.random()*255;
+    bgcolour1=Math.random()*255;
+    bgcolour1=Math.random()*255;
     alarmefx = setInterval(bgefx,1);
 
 
