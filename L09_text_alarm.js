@@ -23,6 +23,7 @@ let bgcolour1=255
 let bgcolour2=255
 let bgcolour3=255
 let efxctrl;
+let timestart=false
 
 function bgefx(){
 if (alarmefx>0){
