@@ -19,7 +19,7 @@ if (timer>0){
    timer-=1;
 }
 else{
-    clearInterval(countdown);
+    clearInterval(timer);
 }
 
    
