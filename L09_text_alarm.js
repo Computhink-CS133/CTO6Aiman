@@ -11,7 +11,7 @@ textAlign(CENTER,CENTER);
 
 
 }
- let countdown = setInterval(settimer,1000);
+let countdown = setInterval(settimer,1000);
 function settimer(){
     let timer = 10
     timer--
