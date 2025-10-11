@@ -2,10 +2,7 @@
 //no😒
 
 
-let h = hour();
-let m = minute();
-let s = second();
-let time = h + ":"+ m + ":" + s;
+
 function setup(){
 createCanvas(1000,800);
 background(100);
@@ -35,6 +32,10 @@ textAlign(CENTER,CENTER);
 // }
 
 function draw(){
+let h = hour();
+let m = minute();
+let s = second();
+let time = h + ":"+ m + ":" + s;
 h = hour();
 m = minute();
 s = second();
