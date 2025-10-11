@@ -18,11 +18,8 @@ function settimer(){
     return timer
 }
 function mousePressed(){
- countdown = setInterval(settimer,1000);
-    
-     
-
-}
+countdown = setInterval(settimer,1000);
+    }
 // let xpos=0
 // let xspeed=0
 // function draw(){
