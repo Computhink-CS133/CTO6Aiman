@@ -3,12 +3,12 @@
 
 
 
-// function setup(){
-// createCanvas(1000,800);
-// background(100);
-// textSize(50);
-// textAlign(CENTER,CENTER);
-// }
+function setup(){
+createCanvas(1000,800);
+background(100);
+textSize(50);
+textAlign(CENTER,CENTER);
+}
 // let xpos=0
 // let xspeed=0
 // function draw(){
@@ -32,4 +32,5 @@
 let hour = hour();
 let minute = minute();
 let second = second();
+
 
