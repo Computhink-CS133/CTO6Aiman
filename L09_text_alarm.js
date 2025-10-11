@@ -28,7 +28,7 @@ if (alarmefx>0){
 }
 else{
     clearInterval(efxctrl);
-    bgcolour=Math.random()
+    bgcolour=Math.random()*255
     alarmefx = setInterval(bgefx,500);
 
 
