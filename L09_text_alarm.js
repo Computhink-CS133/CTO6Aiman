@@ -99,6 +99,6 @@ text (countdown,700,600);
 
 }
 
-function keyPressed(params) {
-    
+function keyPressed() {
+    if (keyIsDown=32)
 }
