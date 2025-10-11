@@ -39,5 +39,5 @@ minute = minute();
 seconds = second();
 time = hour + ":"+ minute + ":" + seconds;
 text(0,0,time);
-
+background(100)
 }
