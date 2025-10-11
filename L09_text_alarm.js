@@ -23,7 +23,7 @@ let bgcolour;
 
 function bgefx(){
 
-if (countdown>0){
+if (alarmefx>0){
    countdown-=1;
 }
 else{
