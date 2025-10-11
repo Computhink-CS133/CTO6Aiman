@@ -15,7 +15,7 @@ let countdown
 function settimer(){
     let timer = 10
     for (let i = 0;i>1;i++){
-    timer-=1
+    timer=-1
     return timer
     }
 }
