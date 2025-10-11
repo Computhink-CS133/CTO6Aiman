@@ -14,7 +14,9 @@ textAlign(CENTER,CENTER);
 let countdown 
 function settimer(){
     let timer = 10
-if (timer<0)
+if (timer<0){
+    timer
+}
 
    
 }
