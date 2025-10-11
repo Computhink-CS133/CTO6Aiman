@@ -2,9 +2,9 @@
 //no😒
 
 
-let hour = hour();
-let minute = minute();
-let seconds = second();
+let h = hour();
+let m = minute();
+let s = second();
 let time = hour + ":"+ minute + ":" + seconds;
 function setup(){
 createCanvas(1000,800);
