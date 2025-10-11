@@ -30,6 +30,7 @@ let lastsfx
 function bgefx(){
 if (alarmefx>0){
    alarmefx-=1;
+   
 }
 else{
     clearInterval(efxctrl);
