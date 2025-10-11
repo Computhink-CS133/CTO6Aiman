@@ -15,8 +15,7 @@ let countdown
 function settimer(){
     let timer = 10
 
-    timer=i
-    return timer
+
    
 }
 function mousePressed(){
