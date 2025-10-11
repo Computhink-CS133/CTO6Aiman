@@ -28,10 +28,14 @@ textAlign(CENTER,CENTER);
 
 
 // }
-
-function draw(){
 let hour = hour();
 let minute = minute();
-let second = second();
-let time = hour + ":"+ minute + ":" 
+let seconds = second();
+
+function draw(){
+hour = hour();
+minute = minute();
+seconds = second();
+let time = hour + ":"+ minute + ":" + seconds;
+text(0,0,time);
 }
