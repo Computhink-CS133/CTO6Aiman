@@ -18,9 +18,9 @@ if (timer>0){
     timer-=1
 }
 else{
-    clearInterval();
+    clearInterval(interval);
 }
-
+return
    
 }
 function mousePressed(){
