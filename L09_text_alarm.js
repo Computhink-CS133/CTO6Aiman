@@ -22,8 +22,8 @@ let alarmefx=1
 let bgcolour;
 
 function bgefx(){
-if (countdown>0){
-   countdown-=1;
+if (alarmefx>0){
+   alarmefx-=1;
 }
 else{
     clearInterval(timer);
