@@ -49,5 +49,6 @@ console.log(time);
 }
 function settimer(){
     let timer = 10
-    timer-=1
+    timer--
 }
+function mousePressed()
