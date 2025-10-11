@@ -39,7 +39,7 @@ let s = second();
 let time = nf(h,2)+ ":" + nf(m,2) + ":" + nf(s,2);
 fill(0);
 textSize(50);
-text(500,400,time);
+text(time,500,400);
 background(100);
 console.log(time);
 }
