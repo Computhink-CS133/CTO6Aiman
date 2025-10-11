@@ -37,6 +37,7 @@ function draw(){
 hour = hour();
 minute = minute();
 seconds = second();
- time = hour + ":"+ minute + ":" + seconds;
+time = hour + ":"+ minute + ":" + seconds;
 text(0,0,time);
+
 }
