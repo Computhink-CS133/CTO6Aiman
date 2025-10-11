@@ -6,7 +6,7 @@
 function setup(){
 createCanvas(1000,800);
 background(100);
-textSize(50);
+textSize(100);
 textAlign(CENTER,CENTER);
 
 
@@ -41,7 +41,7 @@ let s = second();
 
 let time = nf(h,2)+ ":" + nf(m,2) + ":" + nf(s,2);
 fill(0);
-textSize(50);
+textSize(100);
 text(time,500,400);
 console.log(time)   
 }
