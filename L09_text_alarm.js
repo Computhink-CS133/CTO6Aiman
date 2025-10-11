@@ -45,6 +45,7 @@ else{
 }
 function settimer(){
 timerstart=true;
+if (timerstart)
 if (countdown>0 ){
    countdown-=1;
 }
