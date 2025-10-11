@@ -5,7 +5,7 @@
 let h = hour();
 let m = minute();
 let s = second();
-let time = hour + ":"+ minute + ":" + seconds;
+let time = h + ":"+ m + ":" + s;
 function setup(){
 createCanvas(1000,800);
 background(100);
