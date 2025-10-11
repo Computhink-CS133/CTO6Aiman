@@ -19,9 +19,9 @@ textAlign(CENTER,CENTER);
 let countdown=10 
 let timer;
 let alarmefx=1
-let bgcolour1=0
+let bgcolour1=255
 let bgcolour2=255
-let bgcolour3=0
+let bgcolour3=2
 let efxctrl;
 
 function bgefx(){
