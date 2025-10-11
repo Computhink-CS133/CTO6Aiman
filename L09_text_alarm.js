@@ -34,6 +34,7 @@ else{
     bgcolour2=Math.random()*255;
     bgcolour3=Math.random()*255;
     alarmefx = setInterval(bgefx,100);
+    alarm.play()
 
 
 }
