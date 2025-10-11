@@ -6,7 +6,7 @@ let alarm;
 
 function preload() {
 
-    bgmusic= loadSound("assets/star_wars_theme_8_bit.mp3");
+    alarm= loadSound("assets/star_wars_theme_8_bit.mp3");
 }
 function setup(){
 createCanvas(1000,800);
