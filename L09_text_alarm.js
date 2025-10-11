@@ -43,5 +43,6 @@ let time = nf(h,2)+ ":" + nf(m,2) + ":" + nf(s,2);
 fill(0);
 textSize(100);
 text(time,500,400);
-console.log(time)   
+console.log(time);
+  
 }
