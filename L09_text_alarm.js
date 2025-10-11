@@ -31,4 +31,4 @@
 
 let hour = hour();
 let minute = minute();
-let second
+let second = second()''
