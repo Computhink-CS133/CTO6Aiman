@@ -14,11 +14,10 @@ textAlign(CENTER,CENTER);
 let countdown 
 function settimer(){
     let timer = 10
-    for (let i = 10;i<1;i++)
-    {
+
     timer=i
     return timer
-    }
+   
 }
 function mousePressed(){
 countdown = setInterval(settimer,1000);
