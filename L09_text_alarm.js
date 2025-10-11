@@ -26,7 +26,7 @@ function bgefx(){
 
 
     clearInterval(timer);
-    alarmefx = setInterval(bgefx,500)
+    alarmefx = setInterval(bgefx,500);
 
 
 }
