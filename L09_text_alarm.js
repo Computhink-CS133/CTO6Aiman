@@ -8,6 +8,11 @@ createCanvas(1000,800);
 background(100);
 textSize(50);
 textAlign(CENTER,CENTER);
+let hour = hour();
+let minute = minute();
+let seconds = second();
+let time = hour + ":"+ minute + ":" + seconds;
+
 }
 // let xpos=0
 // let xspeed=0
@@ -28,10 +33,6 @@ textAlign(CENTER,CENTER);
 
 
 // }
-let hour = hour();
-let minute = minute();
-let seconds = second();
-let time = hour + ":"+ minute + ":" + seconds;
 
 function draw(){
 hour = hour();
