@@ -2,7 +2,12 @@
 //no😒
 
 
+let alarm;
 
+function preload() {
+
+    bgmusic= loadSound("assets/star_wars_theme_8_bit.mp3");
+}
 function setup(){
 createCanvas(1000,800);
 background(100);
@@ -20,7 +25,7 @@ if (countdown>0){
 }
 else{
     clearInterval(timer);
-    
+
 }
 
    
