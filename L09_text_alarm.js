@@ -27,8 +27,9 @@ if (alarmefx>0){
    alarmefx-=1;
 }
 else{
-    clearInterval();
+    clearInterval(efxctrl);
     alarmefx = setInterval(bgefx,500);
+    
 
 }
 
