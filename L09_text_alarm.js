@@ -29,4 +29,5 @@
 
 // }
 
-let hour = hour
+let hour = hour()
+
