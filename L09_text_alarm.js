@@ -35,7 +35,7 @@ else{
     bgcolour2=Math.random()*255;
     bgcolour3=Math.random()*255;
     alarmefx = setInterval(bgefx,100);
-    
+
 
 
 
@@ -58,7 +58,8 @@ else{
    
 }
 function mousePressed(){
-timer = setInterval(settimer,1000);
+
+    timer = setInterval(settimer,1000);
     }
 // let xpos=0
 // let xspeed=0
