@@ -19,8 +19,8 @@ textAlign(CENTER,CENTER);
 let countdown=1 
 let timer;
 let alarmefx=1 
-let bgefx;
-function settimer(){
+
+function bg(){
 
 if (countdown>0){
    countdown-=1;
