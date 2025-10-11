@@ -35,8 +35,8 @@ textAlign(CENTER,CENTER);
 // }
 
 function draw(){
-hour = hour();
-minute = minute();
+h = hour();
+m = minute();
 seconds = second();
 time = hour + ":"+ minute + ":" + seconds;
 text(0,0,time);
