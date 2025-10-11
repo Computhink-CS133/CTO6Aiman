@@ -29,8 +29,9 @@ textAlign(CENTER,CENTER);
 
 // }
 
+function draw(){
 let hour = hour();
 let minute = minute();
 let second = second();
-
-
+let
+}
