@@ -103,6 +103,6 @@ text (countdown,700,600);
 
 function keyPressed() {
     if (keyIsDown=32){
-        timerstart
+        timerstart=false
     }
 }
