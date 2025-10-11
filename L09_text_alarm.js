@@ -20,7 +20,7 @@ let countdown=1
 let timer;
 let alarmefx=1 
 
-function bg(){
+function bgefx(){
 
 if (countdown>0){
    countdown-=1;
