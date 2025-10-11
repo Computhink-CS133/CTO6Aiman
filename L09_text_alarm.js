@@ -25,7 +25,7 @@ let bgcolour3=255
 let efxctrl;
 let timerstart=false;
 let alarmactive = false;
-let lastsfx = 
+let lastsfx 
 
 function bgefx(){
 if (alarmefx>0){
