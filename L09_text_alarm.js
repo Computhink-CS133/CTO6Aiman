@@ -48,5 +48,5 @@ console.log(time);
 
 }
 function settimer(){
-    
+    let count
 }
