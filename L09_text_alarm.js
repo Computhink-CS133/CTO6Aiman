@@ -45,7 +45,7 @@ else{
 }
 function settimer(){
 timerstart=true;
-if (timerstart)
+if (timerstart){
 if (countdown>0 ){
    countdown-=1;
 }
@@ -54,6 +54,7 @@ else{
     alarmefx = setInterval(bgefx,100);
     alarm.play()
 
+}
 }
 
    
