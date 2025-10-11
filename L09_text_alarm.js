@@ -34,7 +34,7 @@ else{
     bgcolour2=Math.random()*255;
     bgcolour3=Math.random()*255;
     alarmefx = setInterval(bgefx,100);
-    alarm.play()
+
 
 
 }
@@ -49,6 +49,7 @@ if (countdown>0){
 else{
     clearInterval(timer);
     alarmefx = setInterval(bgefx,100);
+        alarm.play()
 
 }
 
