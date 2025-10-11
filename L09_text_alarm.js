@@ -18,7 +18,7 @@ function settimer(){
 }
 function mousePressed(){
      let countdown = setInterval(settimer,1000);
-     global countdown
+    
      
 
 }
