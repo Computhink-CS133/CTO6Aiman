@@ -31,11 +31,12 @@ textAlign(CENTER,CENTER);
 let hour = hour();
 let minute = minute();
 let seconds = second();
+let time = hour + ":"+ minute + ":" + seconds;
 
 function draw(){
 hour = hour();
 minute = minute();
 seconds = second();
-let time = hour + ":"+ minute + ":" + seconds;
+ time = hour + ":"+ minute + ":" + seconds;
 text(0,0,time);
 }
