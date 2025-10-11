@@ -45,7 +45,7 @@ else{
 }
 function settimer(){
 timerstart=true;
-if (countdown>0){
+if (countdown>0 ){
    countdown-=1;
 }
 else{
@@ -101,6 +101,6 @@ text (countdown,700,600);
 
 function keyPressed() {
     if (keyIsDown=32){
-        
+
     }
 }
