@@ -44,5 +44,5 @@ fill(0);
 textSize(100);
 text(time,500,400);
 console.log(time);
-setInterval(settimer)  
+setInterval(settimer,1000);  
 }
