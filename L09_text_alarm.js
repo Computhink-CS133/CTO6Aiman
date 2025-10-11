@@ -35,7 +35,7 @@ function draw(){
 let h = hour();
 let m = minute();
 let s = second();
-let time = nf(h,2)+ ":" + nf(m,2) + ":"
+let time = nf(h,2)+ ":" + nf(m,2) + ":" + nf()
 h = hour();
 m = minute();
 s = second();
