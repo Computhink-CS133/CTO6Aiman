@@ -99,6 +99,6 @@ text (countdown,700,600);
 
 }
 
-function name(params) {
+function keyPressed(params) {
     
 }
