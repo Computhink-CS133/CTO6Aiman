@@ -52,5 +52,5 @@ function settimer(){
     timer--
 }
 function mousePressed(){
-    
+    setInterval(settimer,1000);
 }
