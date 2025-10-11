@@ -17,7 +17,9 @@ function settimer(){
 if (timer>0){
     timer-=1
 }
-else
+else{
+    
+}
 
    
 }
