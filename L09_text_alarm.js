@@ -47,3 +47,6 @@ console.log(time);
 
 
 }
+function settimer(){
+    
+}
