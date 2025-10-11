@@ -17,9 +17,20 @@ textAlign(CENTER,CENTER);
 
 }
 let countdown=1 
-let timer
+let timer;
 let alarmefx=1 
-let bgefx
+let bgefx;
+function settimer(){
+
+if (countdown>0){
+   countdown-=1;
+}
+else{
+    clearInterval(timer);
+    alarmefx = setInterval(bgefx,500)
+
+}
+}
 function settimer(){
 
 if (countdown>0){
