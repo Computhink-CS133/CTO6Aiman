@@ -37,8 +37,8 @@ textAlign(CENTER,CENTER);
 function draw(){
 h = hour();
 m = minute();
-seconds = second();
-time = hour + ":"+ minute + ":" + seconds;
+s = second();
+time = h + ":"+ m + ":" + s;
 text(0,0,time);
 background(100);
 console.log(time)
