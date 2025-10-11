@@ -31,8 +31,8 @@ if (alarmefx>0){
 else{
     clearInterval(efxctrl);
     bgcolour1=Math.random()*255;
-    bgcolour1=Math.random()*255;
-    bgcolour1=Math.random()*255;
+    bgcolour2=Math.random()*255;
+    bgcolour3=Math.random()*255;
     alarmefx = setInterval(bgefx,1);
 
 
@@ -78,7 +78,7 @@ timer = setInterval(settimer,1000);
 
 function draw(){
 
-background(bgcolour);
+background(bgcolour,);
  
 let h = hour();
 let m = minute();
