@@ -29,7 +29,8 @@ let lastsfx
 
 function bgefx(){
 alarmactive = true;
-    if (alarmefx>0){
+ if (alarmactive = true) 
+if (alarmefx>0){
    alarmefx-=1;
    
 }
