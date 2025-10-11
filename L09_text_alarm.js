@@ -37,7 +37,7 @@ if (countdown>0){
 }
 else{
     clearInterval(timer);
-    alarmefx = setInterval(bgefx,500)
+    alarmefx = setInterval(bgefx,500);
 
 }
 
