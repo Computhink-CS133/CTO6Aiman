@@ -16,6 +16,6 @@ function draw(){
     background(100);
 
 }
-function updatethetext(params) {
-    
+function updatethetext(text) {
+    text
 }
