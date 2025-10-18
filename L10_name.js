@@ -9,5 +9,6 @@ function draw(){
         countdown-=1;
         lastsecond=second();
     }
-text(count,500,400)
+text(countdown,500,400)
+background(100)
 }
