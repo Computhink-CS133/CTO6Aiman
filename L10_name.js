@@ -1,4 +1,4 @@
-let bgcolour1=
+let bgcolour1=Math.random()
 function setup(){
     createCanvas(400,400);
     background();
