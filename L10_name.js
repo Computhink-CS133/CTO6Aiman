@@ -14,7 +14,7 @@ function draw(){
     contdownstarted=true
     interval=setInterval(countdownfunc,1000);
 background(bgcolour1,bgcolour2,bgcolour3);
-console.log(countdown);
+console.log(interval);
 }
 function countdownfunc(){
     if (countdown>0&& contdownstarted){
