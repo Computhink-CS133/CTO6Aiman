@@ -1,6 +1,8 @@
+let bg
 function setup(){
     createCanvas(400,400);
     background();
+
 }
 let lastsecond =second();
 let countdown = 60;
