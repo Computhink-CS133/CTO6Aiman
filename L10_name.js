@@ -11,6 +11,7 @@ function setup(){
 
 let countdown = 60;
 function draw(){
+    cou
     interval=setInterval(countdownfunc,1000);
 background(bgcolour1,bgcolour2,bgcolour3);
 console.log(countdown);
