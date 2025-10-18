@@ -14,7 +14,7 @@ let countdown = 60;
 
 function countdownfunc(){
     contdownstarted=true;
-    if (countdown>0&& contdownstarted){
+    if (countdown>0&& contdownstarted){                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
     bgcolour1=Math.random()*255;
     bgcolour2=Math.random()*255;
     bgcolour3=Math.random()*255;
