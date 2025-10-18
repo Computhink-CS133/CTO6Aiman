@@ -12,7 +12,7 @@ function setup(){
 }
 function draw(){
     textsize(28)
-    updatethetext
+    updatethetext(updatetext)
     background(100);
 
 }
