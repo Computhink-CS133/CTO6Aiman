@@ -11,7 +11,7 @@ function setup(){
     inputtext.input(updatetext);
 }
 function draw(){
-    textsize
+    textsize(28)
     text(inputtext,200,200);
     background(100);
 
