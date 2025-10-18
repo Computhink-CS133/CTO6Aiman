@@ -4,6 +4,7 @@ let bgcolour2=Math.random()*255;
 let bgcolour3=Math.random()*255;
 let interval;
 let contdownstarted=false;
+prompt("hello")
 
 
 
