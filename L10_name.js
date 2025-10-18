@@ -3,7 +3,7 @@ function setup(){
     background(100);
 }
 let lastsecond =second();
-let countdown = 
+let countdown = 60;
 function draw(){
-
+    
 }
