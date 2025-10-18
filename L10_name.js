@@ -12,6 +12,7 @@ function setup(){
 let countdown = 60;
 
 function countdownfunc(){
+    contdownstarted=true;
     if (countdown>0&& contdownstarted){
     bgcolour1=Math.random()*255;
     bgcolour2=Math.random()*255;
@@ -26,7 +27,7 @@ function countdownfunc(){
     }
 
 }function draw(){
-    contdownstarted=true;
+    
     interval=setInterval(countdownfunc,1000);
 
 background(bgcolour1,bgcolour2,bgcolour3);
