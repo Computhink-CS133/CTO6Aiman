@@ -23,9 +23,9 @@ function countdownfunc(){
         contdownstarted=false;
 
     }
-        countdown-=1;
+
 }function draw(){
-    contdownstarted=true
+    contdownstarted=true;
     interval=setInterval(countdownfunc,1000);
 
 background(bgcolour1,bgcolour2,bgcolour3);
