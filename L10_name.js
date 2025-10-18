@@ -18,5 +18,5 @@ function draw(){
 
 }
 function updatethetext(text) {
-    text(text,200,200);
+    updatetext=inputtext
 }
