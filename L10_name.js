@@ -5,5 +5,7 @@ function setup(){
 let lastsecond =second();
 let countdown = 60;
 function draw(){
-    
+    if (!lastsecond===second()){
+
+    }
 }
