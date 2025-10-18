@@ -18,5 +18,5 @@ function draw(){
 
     }
 background(bgcolour1,bgcolour2,bgcolour3);
-text(countdown)
+text(countdown,200,200);
 }
