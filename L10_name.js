@@ -22,7 +22,7 @@ function countdownfunc(){
     countdown-=1
     }
     else{
-        clearInterval(countdown);
+        clearInterval(interval);
 
     }
 }
