@@ -64,7 +64,7 @@ else{
 
    
 }
-function mousePressed(){
+function mousePressed(){//:
     if (!timerstart){
     timer = setInterval(settimer,1000);
     }
