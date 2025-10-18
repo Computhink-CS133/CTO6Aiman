@@ -14,5 +14,5 @@ function draw(){
         lastsecond=second();
 
     }
-background(bgcolour1,bg);
+background(bgcolour1,bgcolour2,bgcolour3);
 }
