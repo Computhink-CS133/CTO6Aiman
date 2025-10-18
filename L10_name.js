@@ -10,5 +10,5 @@ function setup(){
     inputtext.position(100,300)
 }
 function draw(){
-    text()
+    text(inputtext,200,200);
 }
