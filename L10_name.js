@@ -13,7 +13,7 @@ function draw(){
         countdown-=1;
         lastsecond=second();
     }
-    setInterval()
+    setInterval(countdownfunc,1000)
 background(bgcolour1,bgcolour2,bgcolour3);
 console.log(countdown);
 }
