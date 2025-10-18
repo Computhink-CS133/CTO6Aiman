@@ -8,6 +8,7 @@ function draw(){
     if (!lastsecond===second()){
         countdown-=1;
         lastsecond=second();
+        
     }
 text(countdown,500,400);
 background(100);
