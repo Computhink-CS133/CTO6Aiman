@@ -8,7 +8,7 @@ function setup(){
     inputtext=createInput();
     background(100);
     inputtext.position(100,300)
-    inputtext.input
+    inputtext.input(updatetext)
 }
 function draw(){
     text(inputtext,200,200);
