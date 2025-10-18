@@ -109,7 +109,7 @@ text (countdown,700,600);
 function keyPressed() {
     if (keyIsDown=32&& !alarmactive){
         timerstart=false
-        alarmactive = false
+        alarmactive = true
         alarmefx = setInterval(bgefx,100);
     }
 }
