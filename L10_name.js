@@ -14,7 +14,7 @@ function draw(){
     textsize(28)
     updatethetext(updatetext)
     background(100);
-    text(text,200,200);
+    text(updatetext,200,200);
 
 }
 function updatethetext(text) {
