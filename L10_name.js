@@ -7,8 +7,8 @@ function setup(){
     createCanvas(400,400);
     inputtext=createInput();
     background(100);
-    inputtext.position(100,300)
-    inputtext.input(updatetext)
+    inputtext.position(100,300);
+    inputtext.input(updatetext);
 }
 function draw(){
     text(inputtext,200,200);
