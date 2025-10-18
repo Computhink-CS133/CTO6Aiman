@@ -26,6 +26,7 @@ function countdownfunc(){
 }function draw(){
     contdownstarted=true
     interval=setInterval(countdownfunc,1000);
+    countdown-=1;
 background(bgcolour1,bgcolour2,bgcolour3);
 console.log(interval);
 }
