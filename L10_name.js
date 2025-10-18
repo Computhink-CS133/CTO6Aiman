@@ -17,5 +17,5 @@ function draw(){
 
 }
 function updatethetext(text) {
-    text
+    text(text,)
 }
