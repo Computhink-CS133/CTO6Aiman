@@ -25,7 +25,7 @@ function countdownfunc(){
     }
     else{
         clearInterval(interval);
-        contdownstarted=false
+        contdownstarted=false;
 
     }
 }
