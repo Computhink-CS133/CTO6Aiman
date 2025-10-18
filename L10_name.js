@@ -5,5 +5,5 @@
 
 function setup(){
     createCanvas(400,400);
-    inputtext=createInput()
+    inputtext=createInput();
 }
