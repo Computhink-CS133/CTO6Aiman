@@ -2,7 +2,7 @@
 //     createCanvas(400,400);
 
 // }
-
+let inputtext;
 function setup(){
     createCanvas(400,400);
     inputtext=createInput();
