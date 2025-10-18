@@ -9,4 +9,6 @@ function setup(){
     background(100);
     inputtext.position(100,300)
 }
-function draw(){}
+function draw(){
+    
+}
