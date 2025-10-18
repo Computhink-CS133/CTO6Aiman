@@ -13,8 +13,8 @@ function draw(){
         countdown-=1;
         lastsecond=second();
     bgcolour1=Math.random()*255;
-bgcolour2=Math.random()*255;
-bgcolour3=Math.random()*255;
+    bgcolour2=Math.random()*255;
+    bgcolour3=Math.random()*255;
 
     }
 background(bgcolour1,bgcolour2,bgcolour3);
