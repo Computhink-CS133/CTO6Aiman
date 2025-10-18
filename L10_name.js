@@ -3,7 +3,7 @@ let bgcolour2=Math.random()*255;
 let bgcolour3=Math.random()*255;
 function setup(){
     createCanvas(400,400);
-    background(bgcolour1,bg);
+    background(bgcolour1,bgcolour2,bgcolour3);
 
 }
 let lastsecond =second();
@@ -14,5 +14,5 @@ function draw(){
         lastsecond=second();
 
     }
-background(100);
+background(bgcolour1,bg);
 }
