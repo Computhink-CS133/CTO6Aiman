@@ -13,4 +13,5 @@ function setup(){
 function draw(){
     text(inputtext,200,200);
     background(100);
+    
 }
