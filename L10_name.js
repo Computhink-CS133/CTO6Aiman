@@ -29,5 +29,5 @@ function countdownfunc(){
     interval=setInterval(countdownfunc,1000);
 
 background(bgcolour1,bgcolour2,bgcolour3);
-console.log(interval);
+console.log(countdown);
 }
