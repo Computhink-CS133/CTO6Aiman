@@ -7,6 +7,6 @@ let countdown = 60;
 function draw(){
     if (!lastsecond===second()){
         countdown-=1;
-        lastsecond=se
+        lastsecond=second();
     }
 }
