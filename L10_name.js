@@ -16,7 +16,7 @@ function countdownfunc(){
     bgcolour1=Math.random()*255;
     bgcolour2=Math.random()*255;
     bgcolour3=Math.random()*255;
-    countdown-=1;
+    
     }
     else{
         clearInterval(interval);
