@@ -6,7 +6,7 @@ function setup(){
     background(bgcolour1,bgcolour2,bgcolour3);
 
 }
-let lastsecond =second();
+let lastsecond = second();
 let countdown = 60;
 function draw(){
     if (!lastsecond===second()){
