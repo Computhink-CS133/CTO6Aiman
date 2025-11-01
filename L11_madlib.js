@@ -1,4 +1,5 @@
-let inputField;
+let noun;
+let adj
 let submitButton;
 function setup() {
     createCanvas(600,400);
