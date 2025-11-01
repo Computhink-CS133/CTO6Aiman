@@ -24,7 +24,7 @@ let nameInput;
 let ageInput;
 let ColourPicker;
 let usertext;
-let 
+let colourofmyname;
 
 function setup() {
     createCanvas(600,400);
@@ -36,6 +36,7 @@ function setup() {
     ageInput = createInput();
     ageInput.position(200,height-50);
     ageInput.input(agetext);
+    col
 
     
 
