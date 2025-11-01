@@ -18,6 +18,6 @@ function draw() {
 }
 function displayInput() {
     inputField = this.value();
-    text(submitButton,300,200);
+    text(inputField,300,200);
 
 }
