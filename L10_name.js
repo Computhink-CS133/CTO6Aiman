@@ -56,6 +56,6 @@ function updatetext() {
     usertext = this.value();
 
 }
-function agetext(params) {
+function agetext() {
     
 }
