@@ -10,6 +10,9 @@ function setup() {
     sumbit.position(inputField.x+10,inputField.y+10);
     sumbit.mousePressed(displayInput);
 }
+function name(params) {
+    
+}
 function displayInput() {
-    usertext = this.value();
+    sumbit = this.value();
 }
