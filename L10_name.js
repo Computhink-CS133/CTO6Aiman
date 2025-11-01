@@ -30,7 +30,7 @@ function setup() {
     ColourPicker.position(200,32);
     nameInput = createInput();
     nameInput.position(300,350);
-    nameInput.input(ageInput)
+    nameInput.input(updatetext);
 
     
 
