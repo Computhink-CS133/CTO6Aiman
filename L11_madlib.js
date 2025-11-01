@@ -26,6 +26,9 @@ function draw() {
 }
 function displayInput() {
     inputField = this.value();
+    inputField = this.value();
+    inputField = this.value();
+    inputField = this.value();
     textSize(16);
     textAlign(CENTER,CENTER);
     fill(0);
