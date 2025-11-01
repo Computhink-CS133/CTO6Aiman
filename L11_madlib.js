@@ -8,4 +8,5 @@ function setup() {
     inputField.input(updatetext);
     sumbit = createButton("Sumbit");
     sumbit.position(inputField.x+width,inputField.y+50);
+    
 }
