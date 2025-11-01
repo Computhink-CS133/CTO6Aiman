@@ -14,10 +14,10 @@ function draw() {
     textSize(16);
     textAlign(CENTER,CENTER);
     fill(0);
-    text(submitButton,300,200);
     console.log(submitButton)
 }
 function displayInput() {
     submitButton = this.value();
+    text(submitButton,300,200);
 
 }
