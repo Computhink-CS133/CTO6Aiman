@@ -20,5 +20,6 @@
 // function updatethetext(text) {
 //     updatetext=inputtext
 // }
-let nameInput
-let ageInput
+let nameInput;
+let ageInput;
+let ColourPicker;
