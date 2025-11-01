@@ -33,5 +33,6 @@ function setup() {
 function draw() {
     textSize(16);
     textAlign(LEFT);
-    
+    fill(0);
+
 }
