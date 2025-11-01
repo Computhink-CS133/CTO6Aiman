@@ -14,10 +14,10 @@ function draw() {
     textSize(16);
     textAlign(CENTER,CENTER);
     fill(0);
-    text(sumbit,300,200);
+    text(submitButton,300,200);
     console.log()
 }
 function displayInput() {
     inputField = this.value();
-    text(sumbit,250,150);
+    text(submitButton,250,150);
 }
