@@ -1,5 +1,8 @@
 let noun;
-let adj
+let adj;
+let verb;
+let adv;
+let pla
 let submitButton;
 function setup() {
     createCanvas(600,400);
