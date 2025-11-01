@@ -1,3 +1,4 @@
+let inputField;
 let 
 function setup() {
 
