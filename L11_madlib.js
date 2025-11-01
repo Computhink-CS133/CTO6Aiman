@@ -28,7 +28,7 @@ function displayInput() {
     noun = this.value();
     adj = this.value();
     verb = this.value();
-    inputField = this.value();
+    place = this.value();
     textSize(16);
     textAlign(CENTER,CENTER);
     fill(0);
