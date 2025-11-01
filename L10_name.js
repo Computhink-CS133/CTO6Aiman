@@ -27,5 +27,5 @@ let ColourPicker;
 function setup() {
     createCanvas()
     ColourPicker = createColorPicker("#ffcc00")
-    
+    ColourPicker
 }
