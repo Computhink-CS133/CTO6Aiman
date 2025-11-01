@@ -31,6 +31,7 @@ function setup() {
 
 }
 function draw() {
+    backgroud(Colo)
     textSize(16);
     textAlign(LEFT);
     fill(0);
