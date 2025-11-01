@@ -14,7 +14,7 @@ function draw() {
     textSize(16);
     textAlign(CENTER,CENTER);
     fill(0);
-    text(sumbit,250,150);
+    text(sumbit,300,200);
 }
 function displayInput() {
     inputField = this.value();
