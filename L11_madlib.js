@@ -12,8 +12,8 @@ function setup() {
     noun.position(200,height-80);    
     adj = createInput();
     adj.position(200,height-80);    
-    inputField = createInput();
-    inputField.position(200,height-80);    
+    verb = createInput();
+    verb.position(200,height-80);    
     inputField = createInput();
     inputField.position(200,height-80);
     submitButton = createButton("Show");
