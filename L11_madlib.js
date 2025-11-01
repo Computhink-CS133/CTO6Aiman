@@ -17,7 +17,7 @@ function draw() {
     console.log(submitButton)
 }
 function displayInput() {
-    submitButton = this.value();
+    inputField = this.value();
     text(submitButton,300,200);
 
 }
