@@ -9,11 +9,11 @@ function setup() {
     background(220);
   
     noun = createInput();
-    noun.position(200,height-80);    
+    noun.position(200,40);    
     adj = createInput();
-    adj.position(200,height-80);    
+    adj.position(200,60);    
     verb = createInput();
-    verb.position(200,height-80);    
+    verb.position(200,80);    
     place = createInput();
     place.position(200,height-80);
     submitButton = createButton("Show");
