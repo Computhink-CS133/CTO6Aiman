@@ -5,7 +5,6 @@ function setup() {
     background(220);
     inputField = createInput();
     inputField.position(200,height-80);
-    inputField.input(updatetext);
     submitButton = createButton("Show");
     submitButton.position(inputField.x+10,inputField.y+10)
     submitButton.mousePressed(displayInput);
