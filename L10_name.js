@@ -31,7 +31,7 @@ function setup() {
 
 }
 function draw() {
-    backgroud(ColourPicker.value())
+    backgroud(ColourPicker.value(),1000,1000)
     textSize(16);
     textAlign(LEFT);
     fill(0);
