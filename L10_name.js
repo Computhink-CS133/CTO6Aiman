@@ -28,6 +28,7 @@ function setup() {
     createCanvas()
     ColourPicker = createColorPicker("#ff0000ff")
     ColourPicker.position(200,32);
+    backgroud();
     
 
 }
