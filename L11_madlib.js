@@ -7,7 +7,7 @@ function setup() {
     inputField.position(200,height-80);
     inputField.input(updatetext);
     sumbit = createButton("Show");
-    sumbit.position(250,height-80);
+    sumbit.position(inputField.x)
     sumbit.mousePressed(displayInput);
 }
 function draw() {
