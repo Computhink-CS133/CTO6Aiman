@@ -36,7 +36,7 @@ function setup() {
     ageInput = createInput();
     ageInput.position(200,height-50);
     ageInput.input(agetext);
-    colourofmyname = createColorPicker(rgbi(255,255,255,1)
+    colourofmyname = createColorPicker("#ff000ff")
 
     
 
