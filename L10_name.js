@@ -30,10 +30,10 @@ function setup() {
     createCanvas(600,400);
     ColourPicker = createColorPicker("#ff0000ff");
     ColourPicker.position(200,32);
-    usertext = createInput();
+    usertext = createInput('Name');
     usertext.position(200,height-80);
     usertext.input(updatetext);
-    ageInput = createInput();
+    ageInput = createInput("");
     ageInput.position(200,height-50);
     ageInput.input(agetext);
 
