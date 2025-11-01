@@ -32,7 +32,7 @@ function setup() {
     usertext = createInput();
     usertext.position(200,height-80);
     usertext.input(updatetext);
-    usertext = createInput();
+    ageInput = createInput();
     usertext.position(200,height-50);
     usertext.input(updatetext);
 
