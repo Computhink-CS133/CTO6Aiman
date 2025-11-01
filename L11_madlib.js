@@ -1,1 +1,3 @@
-fu
+function setup(params) {
+    
+}
