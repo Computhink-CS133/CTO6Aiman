@@ -29,11 +29,7 @@ function displayInput() {
     adj = this.value();
     verb = this.value();
     place = this.value();
-    textSize(16);
-    textAlign(CENTER,CENTER);
-    fill(0);
-    text(inputField,300,200);
-    console.log(inputField);
+    console.log(non);
 
 
 }
