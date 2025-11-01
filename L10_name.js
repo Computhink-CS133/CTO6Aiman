@@ -25,7 +25,7 @@ let ageInput;
 let ColourPicker;
 
 function setup() {
-    createCanvas(1000,1000)
+    createCanvas()
     ColourPicker = createColorPicker("#ff0000ff")
     ColourPicker.position(200,32);
     
