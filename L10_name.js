@@ -38,5 +38,5 @@ function draw() {
     textAlign(LEFT);
     fill(0);
     text("Pick a colour",20,50);
-    rect(100,500,100,500,100,500);
+    rect();
 }
