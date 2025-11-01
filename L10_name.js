@@ -28,12 +28,12 @@ function setup() {
     createCanvas(600,400)
     ColourPicker = createColorPicker("#ff0000ff")
     ColourPicker.position(200,32);
-    backgroud();
+    background();
     
 
 }
 function draw() {
-    backgroud(ColourPicker.value());
+    background(ColourPicker.value());
     textSize(16);
     textAlign(LEFT);
     fill(0);
