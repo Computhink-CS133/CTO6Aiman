@@ -1,5 +1,5 @@
 let inputField;
-let sumbit;
+let sumbit
 function setup() {
     createCanvas(600,400);
     background(220);
