@@ -8,6 +8,9 @@ function setup() {
     createCanvas(600,400);
     background(220);
         inputField = createInput();
+    inputField.position(200,height-80);    
+    inputField = createInput();
+    inputField.position(200,height-80);    inputField = createInput();
     inputField.position(200,height-80);    inputField = createInput();
     inputField.position(200,height-80);    inputField = createInput();
     inputField.position(200,height-80);
