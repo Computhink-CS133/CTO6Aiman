@@ -1,7 +1,6 @@
 let noun;
 let adj;
 let verb;
-let adv;
 let place;
 let submitButton;
 function setup() {
