@@ -25,5 +25,6 @@ let ageInput;
 let ColourPicker;
 
 function setup() {
+    createCanvas()
     
 }
