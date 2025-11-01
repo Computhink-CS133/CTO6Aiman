@@ -30,6 +30,6 @@ function setup() {
     ColourPicker.position(200,32);
 
 }
-function draw(params) {
+function draw() {
     
 }
