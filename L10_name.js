@@ -24,6 +24,6 @@ let nameInput;
 let ageInput;
 let ColourPicker;
 
-function setup(params) {
+function setup() {
     
 }
