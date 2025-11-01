@@ -29,7 +29,7 @@ function setup() {
     ColourPicker = createColorPicker("#ff0000ff");
     ColourPicker.position(200,32);
     nameInput = createInput();
-    nameInput.position()
+    nameInput.position(300,350)
 
     
 
