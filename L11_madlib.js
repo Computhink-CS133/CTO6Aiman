@@ -13,7 +13,7 @@ function setup() {
 function draw() {
 
     textSize(16);
-    textAlign(LEFT);
+    textAlign(CustomElementRegistry,CENTER);
     fill(0);
     text(sumbit,250,150);
 }
