@@ -11,5 +11,5 @@ function setup() {
     sumbit.mousePressed(displayInput);
 }
 function displayInput() {
-    
+    usertext = this.value();
 }
