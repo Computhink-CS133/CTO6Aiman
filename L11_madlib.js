@@ -18,6 +18,6 @@ function draw() {
     text(sumbit,250,150);
 }
 function displayInput() {
-    sumbit = this.value();
+    inputField = this.value();
     text(sumbit,250,150);
 }
