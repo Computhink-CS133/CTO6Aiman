@@ -20,4 +20,5 @@
 // function updatethetext(text) {
 //     updatetext=inputtext
 // }
-let nameInput,ageInput
+let nameInput
+let ageInput
