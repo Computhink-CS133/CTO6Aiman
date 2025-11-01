@@ -1,5 +1,5 @@
 let inputField;
-let 
+let sumbit;
 function setup() {
 
     CreteCanves(100,100)
