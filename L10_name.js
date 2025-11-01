@@ -45,7 +45,7 @@ function draw() {
     fill(255);
     rect(50,100,500,160,50,50,50,50);
     fill(0);
-    text(usertext,300,200);
+    text(usertext,250,150);
     
 }
 function updatetext() {
