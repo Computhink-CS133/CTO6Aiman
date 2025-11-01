@@ -10,9 +10,12 @@ function setup() {
         inputField = createInput();
     inputField.position(200,height-80);    
     inputField = createInput();
-    inputField.position(200,height-80);    inputField = createInput();
-    inputField.position(200,height-80);    inputField = createInput();
-    inputField.position(200,height-80);    inputField = createInput();
+    inputField.position(200,height-80);    
+    inputField = createInput();
+    inputField.position(200,height-80);    
+    inputField = createInput();
+    inputField.position(200,height-80);    
+    inputField = createInput();
     inputField.position(200,height-80);
     submitButton = createButton("Show");
     submitButton.position(inputField.x+200,inputField.y)
