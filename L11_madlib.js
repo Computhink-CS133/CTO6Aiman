@@ -12,7 +12,7 @@ function setup() {
 function draw() {
 
 
-    console.log(inputField)
+
 }
 function displayInput() {
     inputField = this.value();
@@ -20,6 +20,7 @@ function displayInput() {
     textAlign(CENTER,CENTER);
     fill(0);
     text(inputField,300,200);
+    console.log(inputField)
 
 
 }
