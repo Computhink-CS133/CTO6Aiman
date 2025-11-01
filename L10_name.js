@@ -36,7 +36,8 @@ function draw() {
     background(ColourPicker.value());
     textSize(16);
     textAlign(LEFT);
-    fill(0);
+
     text("Pick a colour",20,50);
     rect(50,100,500,160);
+    
 }
