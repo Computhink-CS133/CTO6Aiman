@@ -11,7 +11,9 @@ function setup() {
     sumbit.mousePressed(displayInput);
 }
 function draw() {
-    
+
+    textSize(16);
+    textAlign(LEFT);
     fill(0);
     text(sumbit,250,150);
 }
