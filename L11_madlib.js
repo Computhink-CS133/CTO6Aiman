@@ -19,5 +19,5 @@ function draw() {
 }
 function displayInput() {
     submitButton = this.value();
-    text(submitButton,250,150);
+
 }
