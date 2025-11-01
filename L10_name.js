@@ -25,10 +25,10 @@ let ageInput;
 let ColourPicker;
 
 function setup() {
-    createCanvas()
+    createCanvas(1000,1000)
     ColourPicker = createColorPicker("#ff0000ff")
     ColourPicker.position(200,32);
-    bac
+    
 
 }
 function draw() {
