@@ -15,7 +15,7 @@ function setup() {
     verb = createInput();
     verb.position(200,80);    
     place = createInput();
-    place.position(200,height-80);
+    place.position(200,100);
     submitButton = createButton("Show");
     submitButton.position(inputField.x+200,inputField.y)
     submitButton.mousePressed(displayInput);
