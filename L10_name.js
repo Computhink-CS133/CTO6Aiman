@@ -49,7 +49,7 @@ function draw() {
     rect(50,100,500,160,50,50,50,50);
     fill(0);
     text(usertext,250,150);
-    text(ageInput,300,150);
+    text(ageInput,250,150);
     
 }
 function updatetext() {
