@@ -29,7 +29,10 @@ function displayInput() {
     adj = this.value();
     verb = this.value();
     place = this.value();
-    console.log(non);
+    console.log(noun);
+        console.log(noun);
+            console.log(noun);
+                console.log(noun);
 
 
 }
