@@ -42,6 +42,6 @@ function draw() {
     text("Pick a colour",20,50);
     fill(255);
     rect(50,100,500,160,50,50,50,50);
-    text()
+    text(nameInput.value())
     
 }
