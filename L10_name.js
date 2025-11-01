@@ -23,6 +23,7 @@
 let nameInput;
 let ageInput;
 let ColourPicker;
+let usertext;
 
 function setup() {
     createCanvas(600,400);
