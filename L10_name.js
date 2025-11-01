@@ -47,3 +47,6 @@ function draw() {
     text(usertext,550,260);
     
 }
+function name(params) {
+    
+}
