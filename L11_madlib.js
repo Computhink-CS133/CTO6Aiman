@@ -14,10 +14,11 @@ function draw() {
     textSize(16);
     textAlign(CENTER,CENTER);
     fill(0);
+    text(inputField,300,200);
     console.log(submitButton)
 }
 function displayInput() {
     inputField = this.value();
-    text(inputField,300,200);
+
 
 }
