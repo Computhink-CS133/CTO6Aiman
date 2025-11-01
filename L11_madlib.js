@@ -15,7 +15,7 @@ function draw() {
     textAlign(CENTER,CENTER);
     fill(0);
     text(inputField,300,200);
-    console.log(submitButton)
+    console.log(inputField)
 }
 function displayInput() {
     inputField = this.value();
