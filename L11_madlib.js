@@ -1,3 +1,3 @@
 function setup() {
-    CreteCanves()
+    CreteCanves(100,100)
 }
