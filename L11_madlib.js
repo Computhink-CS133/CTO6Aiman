@@ -2,7 +2,7 @@ let noun;
 let adj;
 let verb;
 let adv;
-let pla
+let place;
 let submitButton;
 function setup() {
     createCanvas(600,400);
