@@ -19,4 +19,5 @@ function draw() {
 }
 function displayInput() {
     sumbit = this.value();
+    text(sumbit,250,150);
 }
