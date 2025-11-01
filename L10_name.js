@@ -34,7 +34,7 @@ function setup() {
     usertext.input(updatetext);
     ageInput = createInput();
     ageInput.position(200,height-50);
-    ageInput.input(updatetext);
+    ageInput.input(agetext);
 
     
 
