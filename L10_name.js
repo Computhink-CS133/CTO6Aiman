@@ -28,7 +28,7 @@ function setup() {
     createCanvas(600,400);
     ColourPicker = createColorPicker("#ff0000ff");
     ColourPicker.position(200,32);
-    background();
+
     
 
 }
@@ -38,4 +38,5 @@ function draw() {
     textAlign(LEFT);
     fill(0);
     text("Pick a colour",20,50);
+    
 }
