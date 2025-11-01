@@ -7,8 +7,7 @@ let submitButton;
 function setup() {
     createCanvas(600,400);
     background(220);
-        inputField = createInput();
-    noun.position(200,height-80);    
+  
     noun = createInput();
     noun.position(200,height-80);    
     adj = createInput();
