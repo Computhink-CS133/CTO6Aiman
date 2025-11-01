@@ -8,7 +8,7 @@ function setup() {
     inputField.input(updatetext);
     submitButton = createButton("Show");
     submitButton.position(inputField.x+10,inputField.y+10)
-    sumbit.mousePressed(displayInput);
+    submitButton.mousePressed(displayInput);
 }
 function draw() {
 
