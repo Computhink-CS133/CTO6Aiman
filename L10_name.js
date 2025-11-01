@@ -54,5 +54,8 @@ function draw() {
 }
 function updatetext() {
     usertext = this.value();
-    ageInput = this.value();
+
+}
+function agetext(params) {
+    
 }
