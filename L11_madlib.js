@@ -1,5 +1,5 @@
 let inputField;
-let sumbit;
+let sub;
 function setup() {
     createCanvas(600,400);
     background(220);
@@ -7,7 +7,7 @@ function setup() {
     inputField.position(200,height-80);
     inputField.input(updatetext);
     sumbit = createButton("Show");
-    sumbit.position(inputField.x+10,inputField.y)
+    sumbit.position(inputField.x+10,inputField.y+10)
     sumbit.mousePressed(displayInput);
 }
 function draw() {
