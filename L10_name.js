@@ -32,6 +32,7 @@ function setup() {
     usertext = createInput();
     usertext.position(200,height-80);
     usertext.input(updatetext);
+    
 
     
 
