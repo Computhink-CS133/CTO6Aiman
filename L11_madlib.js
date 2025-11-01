@@ -6,7 +6,7 @@ function setup() {
     inputField = createInput();
     inputField.position(200,height-80);
     inputField.input(updatetext);
-    sumbit = createButton("Sumbit");
-    sumbit.position(inputField.x+inputField.width,inputField.y+inputField.height);
+    sumbit = createButton("Sumbit");t
+    sumbit.position(inputField.x+50,inputField.y+inputField.heigh);
     sumbit.mousePressed(displayInput);
 }
