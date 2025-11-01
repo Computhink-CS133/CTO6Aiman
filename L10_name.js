@@ -28,7 +28,8 @@ function setup() {
     createCanvas(600,400);
     ColourPicker = createColorPicker("#ff0000ff");
     ColourPicker.position(200,32);
-    nameInput = createInput()
+    nameInput = createInput();
+    nameInput = 
 
     
 
