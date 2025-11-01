@@ -47,6 +47,6 @@ function draw() {
     text(usertext,550,260);
     
 }
-function updatetext(params) {
-    
+function updatetext() {
+    userte
 }
