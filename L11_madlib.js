@@ -6,7 +6,7 @@ function setup() {
     inputField = createInput();
     inputField.position(200,height-80);
     submitButton = createButton("Show");
-    submitButton.position(inputField.x,inputField.y)
+    submitButton.position(inputField.x+1,inputField.y)
     submitButton.mousePressed(displayInput);
 }
 function draw() {
