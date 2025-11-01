@@ -25,7 +25,7 @@ function draw() {
 
 }
 function displayInput() {
-    inputField = this.value();
+    noun = this.value();
     inputField = this.value();
     inputField = this.value();
     inputField = this.value();
