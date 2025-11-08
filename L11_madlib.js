@@ -20,7 +20,7 @@ function setup() {
     submitButton.mousePressed(displayInput);
 }
 function draw() {
-stowytempwates["The adj noun decided to verb at the place.","One day, a adj noun wanted to verb in place.","Did you hear about the adj noun that tried to verb near place."]
+stowytempwates["The adj noun decided to verb at the place.","One day, a adj noun wanted to verb in place.","Did you hear about the adj noun that tried to verb near place."];
 
 
 }
@@ -30,6 +30,7 @@ function displayInput() {
     // console.log(adj.value());
     // console.log(verb.value());
     // console.log(place.value());
+    
 
 
 
