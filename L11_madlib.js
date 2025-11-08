@@ -40,6 +40,7 @@ function displayInput() {
     // console.log(adj.value());
     // console.log(verb.value());
     // console.log(place.value());
+    background(100);
     stowytext = template.replace("{noun}",noun.value())
                         .replace("{verb}",verb.value())
                         .replace("{adj}",adj.value())
@@ -47,7 +48,6 @@ function displayInput() {
 
 console.log(stowytext);
 text(stowytext,300,200);
-
 
 }
 
