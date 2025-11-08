@@ -27,7 +27,7 @@ function draw() {
     
 
 
-    stowytempwates=["The {adj} {noun} decided to {verb} at the {place}.",
+    stowytempwates=["The {adj} {noun} decided to {verb} at  {place}.",
         "One day, a {adj} {noun} wanted to {verb} in {place}.",
         "Did you hear about the {adj} {noun} that tried to {verb} near {place}."];
     template = random(stowytempwates);
