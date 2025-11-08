@@ -12,5 +12,6 @@ function setup() {
     sumbit.mousePressed(displayInput);
 }
 function displayInput(){
+    background(220);
     text(input.value(),300,300);
 }
