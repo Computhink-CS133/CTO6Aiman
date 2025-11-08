@@ -8,6 +8,7 @@ let words=["Monkey",
     "Chair",
     "Bowl"
 ]
+let randomword = 
 function setup() {
     createCanvas(600,400);
     background(220);
