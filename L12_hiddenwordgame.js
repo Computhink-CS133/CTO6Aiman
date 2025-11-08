@@ -8,7 +8,7 @@ function setup() {
     input = createInput("Disabled monkey");
     input.position(100,200);
     input.size(150,30);
-    input.
+    input.style(Font)
     sumbit = createButton("Display");
     sumbit.position(300,200);
     sumbit.mousePressed(displayInput);
