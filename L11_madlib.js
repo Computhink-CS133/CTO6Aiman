@@ -7,7 +7,7 @@ function setup() {
     createCanvas(600,400);
     background(220);
   
-    noun = createInput();
+    noun = createInput("🗿");
     noun.position(200,40);    
     adj = createInput();
     adj.position(200,60);    
