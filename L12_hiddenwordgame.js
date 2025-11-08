@@ -21,7 +21,7 @@ function setup() {
     displayText = randomword[0].Uppercase+" "+"_".repeat(randomword.length-1);
     text("Hint:"+ displayText,100,350);
 
-    input = createInput("Disabled monkey");
+    input = createInput("");
     input.position(100,200);
     input.size(150,30);
     input.style("font-size","20px")
