@@ -18,7 +18,7 @@ function setup() {
     console.log(randomword)
     textSize(25);
     textAlign(CENTER,CENTER);
-    displayText = randomword[0].Uppercase+" "+"_".repeat(randomword.length-1);
+    displayText = randomword(0).Uppercase+" "+"_".repeat(randomword.length-1);
     text("Hint:"+ displayText,100,350);
 
     input = createInput("");
