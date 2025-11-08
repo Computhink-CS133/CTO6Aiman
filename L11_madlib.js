@@ -46,7 +46,8 @@ function displayInput() {
                         .replace("{place}",place.value());
 
 console.log(stowytext);
-text(stowytext,400,200);
+text(stowytext,300,200);
+
 
 }
 
