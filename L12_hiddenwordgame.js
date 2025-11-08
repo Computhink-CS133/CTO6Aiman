@@ -11,9 +11,6 @@ let words=["Monkey",
 function setup() {
     createCanvas(600,400);
     background(220);
-
-
-    
   
     input = createInput("Disabled monkey");
     input.position(100,200);
