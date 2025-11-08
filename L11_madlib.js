@@ -25,10 +25,6 @@ function draw() {
 
 }
 function displayInput() {
-    noun = this.value();
-    adj = this.value();
-    verb = this.value();
-    place = this.value();
     console.log(noun.value());
     console.log(adj.value());
     console.log(verb.value());
