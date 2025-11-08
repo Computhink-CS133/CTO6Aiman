@@ -19,7 +19,7 @@ function setup() {
     textSize(25);
     textAlign(CENTER,CENTER);
     text("Hint:"+ randomword,100,350);
-    display
+    displayText = randomword
     input = createInput("Disabled monkey");
     input.position(100,200);
     input.size(150,30);
