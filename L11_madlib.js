@@ -5,7 +5,7 @@ let place;
 let submitButton;
 let stowytempwates;
 let stowytext="";
-let template = random(stowytempwates);
+let template 
 function setup() {
     createCanvas(600,400);
     background(220);
@@ -21,6 +21,7 @@ function setup() {
     submitButton = createButton("Show");
     submitButton.position(place.x+200,place.y)
     submitButton.mousePressed(displayInput);
+    let template = random(stowytempwates);
 }
 function draw() {
 
