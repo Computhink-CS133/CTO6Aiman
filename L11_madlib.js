@@ -25,10 +25,10 @@ function draw() {
 
 }
 function displayInput() {
-    console.log(noun.value());
-    console.log(adj.value());
-    console.log(verb.value());
-    console.log(place.value());
+    // console.log(noun.value());
+    // console.log(adj.value());
+    // console.log(verb.value());
+    // console.log(place.value());
 
 
 }
