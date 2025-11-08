@@ -5,7 +5,8 @@ let words=["Monkey",
     "Table",
     "Wood",
     "Skull",
-    ""
+    "Chair"
+    
 ]
 function setup() {
     createCanvas(600,400);
