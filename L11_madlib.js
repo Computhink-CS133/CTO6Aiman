@@ -21,7 +21,7 @@ function setup() {
     submitButton = createButton("Show");
     submitButton.position(place.x+200,place.y)
     submitButton.mousePressed(displayInput);
-    let template = random(stowytempwates);
+    template = random(stowytempwates);
 }
 function draw() {
 
