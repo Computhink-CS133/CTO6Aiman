@@ -5,7 +5,7 @@ function setup() {
         createCanvas(600,400);
     background(220);
   
-    input= 
+    input = 
     submitButton = createButton("Show");
     submitButton.position(place.x+200,place.y)
     submitButton.mousePressed(displayInput);
