@@ -29,8 +29,8 @@ function displayInput() {
     adj = this.value();
     verb = this.value();
     place = this.value();
-    console.log(noun);
-    console.log(adj);
+    console.log(noun.value());
+    console.log(adj.noun);
     console.log(verb);
     console.log(place);
 
