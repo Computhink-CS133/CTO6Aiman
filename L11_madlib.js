@@ -30,7 +30,7 @@ function displayInput() {
     // console.log(adj.value());
     // console.log(verb.value());
     // console.log(place.value());
-    
+    stowy
 
 
 
