@@ -32,7 +32,7 @@ function displayInput() {
     console.log(noun.value());
     console.log(adj.value());
     console.log(verb.value());
-    console.log(place);
+    console.log(place.value());
 
 
 }
