@@ -3,6 +3,8 @@ let adj;
 let verb;
 let place;
 let submitButton;
+let stowytempwates;
+let stowytext="";
 function setup() {
     createCanvas(600,400);
     background(220);
@@ -20,8 +22,7 @@ function setup() {
     submitButton.mousePressed(displayInput);
 }
 function draw() {
-let stowytempwates;
-let stowytext="";
+
     stowytempwates["The adj noun decided to verb at the place.","One day, a adj noun wanted to verb in place.","Did you hear about the adj noun that tried to verb near place."];
 
 
