@@ -7,7 +7,7 @@ function setup() {
   
     input = createInput("Disabled monkey");
     input.position(300,200);
-    submitButton = createButton("Show");
-    submitButton.position()
-    submitButton.mousePressed(displayInput);
+    sumbit = createButton("Show");
+    sumbit.position()
+    sumbit.mousePressed(displayInput);
 }
