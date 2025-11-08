@@ -10,6 +10,8 @@ function setup() {
     input.size(150,30);
     input.style("Font-size","20px")
     sumbit = createButton("Display");
+    sumbit.size(150,30);
+    input.style("Font-size","20px")
     sumbit.position(300,200);
     sumbit.mousePressed(displayInput);
 }
