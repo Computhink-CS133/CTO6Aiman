@@ -6,6 +6,7 @@ function setup() {
     background(220);
   
     input = createInput("Disabled monkey")
+    input.position()
     submitButton = createButton("Show");
     submitButton.position(place.x+200,place.y)
     submitButton.mousePressed(displayInput);
