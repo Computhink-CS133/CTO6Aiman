@@ -24,7 +24,7 @@ function setup() {
     input.position(100,200);
     input.size(150,30);
     input.style("font-size","20px")
-    sumbit = createButton("Display");
+    sumbit = createButton("Guess");
     sumbit.size(150,30);
     sumbit.style("font-size","20px")
     sumbit.position(300,200);
