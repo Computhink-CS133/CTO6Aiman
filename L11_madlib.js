@@ -5,6 +5,7 @@ let place;
 let submitButton;
 let stowytempwates;
 let stowytext="";
+let template = random(stowytempwates);
 function setup() {
     createCanvas(600,400);
     background(220);
@@ -27,7 +28,7 @@ function draw() {
 
 
 }
-let template = random(stowytempwates);
+
 function displayInput() {
     // console.log(noun.value());
     // console.log(adj.value());
