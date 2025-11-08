@@ -21,13 +21,14 @@ function setup() {
     submitButton = createButton("Show");
     submitButton.position(place.x+200,place.y)
     submitButton.mousePressed(displayInput);
-    template = random(stowytempwates);
+
 }
 
 
     stowytempwates["The {adj} {noun} decided to {verb} at the {place}.",
         "One day, a {adj} {noun} wanted to {verb} in {place}.",
         "Did you hear about the {adj} {noun} that tried to {verb} near {place}."];
+    template = random(stowytempwates);
 
 
 
