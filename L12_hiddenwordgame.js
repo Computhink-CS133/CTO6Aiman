@@ -15,7 +15,7 @@ function setup() {
 
 
     randomword = random(words);
-    console.log(randomword)
+    console.log(randomword);
     textSize(25);
     textAlign(CENTER,CENTER);
     displayText = randomword[0].toUppercase()+" "+"_".repeat(randomword.length-1);
