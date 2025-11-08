@@ -14,7 +14,7 @@ function setup() {
     noun.position(200,40);    
     adj = createInput("disabled");
     adj.position(200,60);    
-    verb = createInput("lick");
+    verb = createInput("pp");
     verb.position(200,80);    
     place = createInput("toilet");
     place.position(200,100);
