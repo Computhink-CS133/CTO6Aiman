@@ -37,7 +37,7 @@ function displayInput() {
                         .replace("adj",adj.value())
                         .replace("place",place.value());
 
-cons
+console.log(stowytext)
 
 }
 
