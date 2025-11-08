@@ -23,7 +23,9 @@ function setup() {
     submitButton.mousePressed(displayInput);
 
 }
-func
+function draw() {
+    
+}
 
     stowytempwates=["The {adj} {noun} decided to {verb} at the {place}.",
         "One day, a {adj} {noun} wanted to {verb} in {place}.",
