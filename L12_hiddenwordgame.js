@@ -13,7 +13,7 @@ function setup() {
 }
 function displayInput(){
     background(220);
-    textsize(20);
+    TextSize(20);
     text(input.value(),100,300);
     console.log(input.value());
 }
