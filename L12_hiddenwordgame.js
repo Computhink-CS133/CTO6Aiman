@@ -18,7 +18,7 @@ function setup() {
     console.log(randomword)
     textSize(25);
     textAlign(CENTER,CENTER);
-    text("Hint:"+ randomword,100,350);
+    text("Hint:"+ displayText,100,350);
     displayText = randomword[0].Uppercase+" "+"_".repeat(randomword.length-1);
     input = createInput("Disabled monkey");
     input.position(100,200);
