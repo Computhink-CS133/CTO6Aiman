@@ -25,7 +25,7 @@ function setup() {
 }
 function draw() {
     
-}
+
 
     stowytempwates=["The {adj} {noun} decided to {verb} at the {place}.",
         "One day, a {adj} {noun} wanted to {verb} in {place}.",
@@ -33,7 +33,7 @@ function draw() {
     template = random(stowytempwates);
 
 
-
+    }
 
 function displayInput() {
     // console.log(noun.value());
