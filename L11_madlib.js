@@ -24,11 +24,13 @@ stowytempwates["The adj noun decided to verb at the place.","One day, a adj noun
 
 
 }
+let template = 
 function displayInput() {
     // console.log(noun.value());
     // console.log(adj.value());
     // console.log(verb.value());
     // console.log(place.value());
+
 
 
 }
