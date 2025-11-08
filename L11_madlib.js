@@ -16,7 +16,7 @@ function setup() {
     adj.position(200,60);    
     verb = createInput("pp");
     verb.position(200,80);    
-    place = createInput("toilet");
+    place = createInput("the toilet");
     place.position(200,100);
     submitButton = createButton("Show");
     submitButton.position(place.x+200,place.y)
