@@ -4,7 +4,8 @@ let input,sumbit;
 let words=["Monkey",
     "Table",
     "Wood",
-    
+    "Skull",
+    ""
 ]
 function setup() {
     createCanvas(600,400);
