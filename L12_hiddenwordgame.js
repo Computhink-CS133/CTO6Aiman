@@ -13,6 +13,7 @@ function setup() {
 }
 function displayInput(){
     background(220);
+    textS
     text(input.value(),100,300);
     console.log(input.value());
 }
