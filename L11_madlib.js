@@ -38,9 +38,9 @@ function displayInput() {
     // console.log(verb.value());
     // console.log(place.value());
     stowytext = template.replace("{noun}",noun.value());
-    stowytext = template .replace("{verb}",verb.value())
-                        .replace("{adj}",adj.value())
-                        .replace("{place}",place.value());
+    stowytext = template.replace("{verb}",verb.value());
+    stowytext = template.replace("{adj}",adj.value());
+    stowytext = template.replace("{place}",place.value());
 
 console.log(stowytext);
 
