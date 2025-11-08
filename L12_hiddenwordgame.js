@@ -2,12 +2,12 @@
 //no🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
 let input,sumbit
 function setup() {
-        createCanvas(600,400);
+    createCanvas(600,400);
     background(220);
   
     input = createInput("Disabled monkey");
     input.position(300,200);
     sumbit = createButton("Display");
-    sumbit.position(350,200)
+    sumbit.position(400,200)
     sumbit.mousePressed(displayInput);
 }
