@@ -5,7 +5,7 @@ let place;
 let submitButton;
 let stowytempwates;
 let stowytext="";
-let template 
+let template; 
 function setup() {
     createCanvas(600,400);
     background(220);
