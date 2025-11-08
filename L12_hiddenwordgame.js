@@ -37,5 +37,5 @@ function displayInput(){
     textAlign(CENTER,CENTER);
     text(input.value(),100,300);
     console.log(input.value());
-    text("Hint:"+ randomword,100,350);
+    text("Hint:"+ displayText,100,350);
 }
