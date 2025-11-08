@@ -13,5 +13,5 @@ function setup() {
 }
 function displayInput(){
     background(220);
-    text(input.value(),300,300);
+    text(input.value(),100,300);
 }
