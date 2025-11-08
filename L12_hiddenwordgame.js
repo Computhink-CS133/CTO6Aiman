@@ -14,5 +14,5 @@ function setup() {
 function displayInput(){
     background(220);
     text(input.value(),100,300);
-    console
+    console.log(input.value());
 }
