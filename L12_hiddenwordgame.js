@@ -6,9 +6,9 @@ function setup() {
     background(220);
   
     input = createInput("Disabled monkey");
-    input.position(300,200);
+    input.position(100,200);
     sumbit = createButton("Display");
-    sumbit.position(500,200);
+    sumbit.position(300,200);
     sumbit.mousePressed(displayInput);
 }
 function displayInput(){
