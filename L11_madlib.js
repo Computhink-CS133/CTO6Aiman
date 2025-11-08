@@ -33,8 +33,8 @@ function displayInput() {
     // console.log(verb.value());
     // console.log(place.value());
     stowytext = template.replace("noun",noun.value())
-                                ("verb",verb.value())
-                                
+                        .replace("verb",verb.value())
+                        .()
 
 
 
