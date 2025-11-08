@@ -18,7 +18,7 @@ function setup() {
     console.log(randomword)
     textSize(25);
     textAlign(CENTER,CENTER);
-    text(input.value(),100,300);
+    text(input.value(),100,350);
   
     input = createInput("Disabled monkey");
     input.position(100,200);
