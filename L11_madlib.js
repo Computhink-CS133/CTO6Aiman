@@ -10,9 +10,9 @@ function setup() {
     createCanvas(600,400);
     background(220);
   
-    noun = createInput("🗿");
+    noun = createInput("monkey ");
     noun.position(200,40);    
-    adj = createInput("🗿");
+    adj = createInput("disabled");
     adj.position(200,60);    
     verb = createInput("🗿");
     verb.position(200,80);    
