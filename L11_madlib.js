@@ -24,7 +24,7 @@ stowytempwates["The adj noun decided to verb at the place.","One day, a adj noun
 
 
 }
-let template = 
+let template = random(story)
 function displayInput() {
     // console.log(noun.value());
     // console.log(adj.value());
