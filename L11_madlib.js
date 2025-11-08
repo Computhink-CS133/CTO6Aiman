@@ -20,7 +20,7 @@ function setup() {
     submitButton.mousePressed(displayInput);
 }
 function draw() {
-stowytempwates["The adj noun decided to verb"]
+stowytempwates["The adj noun decided to verb at the "]
 
 
 }
