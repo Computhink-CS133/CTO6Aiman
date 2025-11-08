@@ -14,7 +14,7 @@ function setup() {
 function displayInput(){
     background(220);
     textSize(25);
-    
+    textAlign(CustomElementRegistry,CENTER)
     text(input.value(),100,300);
     console.log(input.value());
 }
