@@ -20,7 +20,7 @@ function setup() {
     submitButton.mousePressed(displayInput);
 }
 function draw() {
-stowytempwates
+stowytempwates["t"]
 
 
 }
