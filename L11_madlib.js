@@ -30,8 +30,8 @@ function displayInput() {
     verb = this.value();
     place = this.value();
     console.log(noun.value());
-    console.log(adj.noun);
-    console.log(verb);
+    console.log(adj.value());
+    console.log(verb.value());
     console.log(place);
 
 
