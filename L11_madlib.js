@@ -34,7 +34,7 @@ function displayInput() {
     // console.log(place.value());
     stowytext = template.replace("noun",noun.value())
                         .replace("verb",verb.value())
-                        .replace(adj)
+                        .replace("adj",ad)
 
 
 
