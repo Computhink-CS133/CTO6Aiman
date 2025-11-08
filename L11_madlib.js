@@ -20,7 +20,7 @@ function setup() {
     submitButton.mousePressed(displayInput);
 }
 function draw() {
-stowytempwates["The nou"]
+stowytempwates["The adj noun"]
 
 
 }
