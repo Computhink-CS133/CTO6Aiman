@@ -9,5 +9,5 @@ function setup() {
     input.position(300,200);
     sumbit = createButton("Display");
     sumbit.position(500,200)
-
+    sumbit
 }
