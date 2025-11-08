@@ -32,7 +32,7 @@ function displayInput() {
     // console.log(adj.value());
     // console.log(verb.value());
     // console.log(place.value());
-    stowytext = template
+    stowytext = template.replace("")
 
 
 
